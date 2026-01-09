@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js"> 
+    <head> 
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="Zotero, research, tool, firefox, extension"/>
+        <meta name="description" content="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research."/>
+
+        <meta name="robots" content="nofollow" />
+        <title>Zotero | Groups > IPBES IAS</title>
+        <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
+
+        <!-- css -->
+        <link rel="stylesheet" href="/static/css/style.1698016953.css" 
+            type="text/css" media="screen" charset="utf-8"/>
+        <link rel="stylesheet" href="/static/css/zotero_icons_sprite.1473223288.css" 
+            type="text/css" media="screen" charset="utf-8"/>
+        <link rel="stylesheet" href="/static/css/jquery-ui-1.8.12.custom.1473223288.css" 
+            type="text/css" media="screen" charset="utf-8"/>
+        <link charset="utf-8" href="/static/css/web-components.min.1724207858.css" rel="stylesheet" type="text/css" />        <!-- auto discovery links -->
+                    <script type="text/javascript" charset="utf-8" src="/static/library/jquery/jquery-all.js"></script>
+            <script type="text/javascript" charset="utf-8" src="/static/library/bootstrap/js/bootstrap.js"></script>
+            <script type="text/javascript" nonce="qeto0qfy4b">
+                var bootstrapButton = $.fn.button.noConflict() // return $.fn.button to previously assigned value
+                $.fn.bootstrapBtn = bootstrapButton
+            </script>
+                
+        <!-- set jsConfig on window.zoteroConfig -->
+                <script type="text/javascript" charset="utf-8" nonce="qeto0qfy4b">
+            window.zoteroConfig = {"librarySettings":{"allowEdit":1,"allowUpload":1},"baseApiUrl":"https:\/\/api.zotero.org","baseWebsiteUrl":"https:\/\/www.zotero.org","baseFeedUrl":"https:\/\/api.zotero.org","baseZoteroWebsiteUrl":"https:\/\/www.zotero.org","baseDownloadUrl":"","debugLogEndpoint":"https:\/\/www.zotero.org\/user\/submitdebug","directDownloads":false,"proxyDownloads":false,"staticPath":"\/static","proxyPath":"","ignoreLoggedInStatus":true,"storePrefsRemote":false,"proxy":false,"sessionAuth":true,"sessionCookieName":"zotero_www_session_v2","breadcrumbsBase":[{"label":"username","path":"\/"}],"apiKey":"","ajax":1,"apiVersion":3,"eventful":true,"useIndexedDB":true,"preferUrlItem":false,"CORSallowed":true,"locale":"en-US","cacheStoreType":"localStorage","preloadCachedLibrary":true,"rte":"ckeditor","sortOrdering":{"dateAdded":"desc","dateModified":"desc","date":"desc","year":"desc","accessDate":"desc","title":"asc","creator":"asc"},"defaultSortColumn":"title","defaultSortOrder":"asc","largeFields":{"title":1,"abstractNote":1,"extra":1},"richTextFields":{"note":1},"maxFieldSummaryLength":{"title":60},"exportFormats":["bibtex","bookmarks","mods","refer","rdf_bibliontology","rdf_dc","rdf_zotero","ris","wikipedia"],"exportFormatsMap":{"bibtex":"BibTeX","bookmarks":"Bookmarks","mods":"MODS","refer":"Refer\/BibIX","rdf_bibliontology":"Bibliontology RDF","rdf_dc":"Unqualified Dublin Core RDF","rdf_zotero":"Zotero RDF","ris":"RIS","wikipedia":"Wikipedia Citation Templates"},"defaultApiArgs":{"order":"title","sort":"asc","limit":50,"start":0,"content":"json","format":"atom"},"defaultPrefs":{"server_javascript_enabled":true,"debug_level":3},"recaptchaSitekey":"6LdDriYUAAAAAKxat_UYZ22IxvcUcLLBVAQTNGJe","hcaptchaSitekey":"52483d36-da88-4f82-b4b6-4fec4c66c6ac","turnstileSitekey":"0x4AAAAAABhv1awqMahwU2Kn","captcha":"turnstile","useS3":"1","s3bucketName":"zotero.org","imagePath":"\/static\/images","profileImagePath":"images\/settings\/profile","groupImagePath":"images\/settings\/group","installData":[]};
+
+            if(typeof window.zoteroData == 'undefined'){
+                window.zoteroData = {};
+            }
+                                    var baseURL = "https://www.zotero.org";
+            var baseDomain = "https://www.zotero.org";
+            var staticPath = "/static";
+        </script>
+        <!-- headscript -->
+        <script type="text/javascript" src="/static/js/web-components.min.1745940968.js"></script>
+<script type="text/javascript" src="/static/library/tinymce/tinymce.min.js"></script>    </head>
+    <body class="">
+        <!-- Header -->
+        <header role="banner" class="container">
+            <div class="center container">
+                                                
+                <h1 id="logohead">
+                    <a href="/">
+                        <img src="/static/images/theme/zotero-logo.1707326704.svg" alt="Zotero">
+                    </a>
+                </h1>
+            
+            <div id="login-links">
+                                    <a href="https://www.zotero.org/user/login" title="Log In">Log In</a>
+                    <a href="https://www.zotero.org/user/register" title="Register">Register</a>
+                            </div>
+            
+                            <a href="/storage" class="button" id="purchase-storage-link"><img src="/static/images/theme/archive.png" /> Upgrade Storage</a>
+                        
+            <div id="navbar" class="container">
+                <nav id="sitenav">
+                    <ul>
+                                        <li ><a href="/">Home</a></li>
+                                        <li class='selected'><a href="/groups/">Groups</a></li>
+                                        <li ><a href="https://www.zotero.org/support/">Documentation</a></li>
+                    <li ><a href="https://forums.zotero.org">Forums</a></li>
+                    <li ><a href="https://www.zotero.org/getinvolved/">Get Involved</a></li>
+                    </ul>
+                </nav>
+                                <form action="https://www.zotero.org/search/" class="zform zsearch" id="simple-search">
+                    <div>
+                        <input type="text" name="q" size="20" id="header-search-query"/>
+                        <button class="button clear-field-button" type="reset"><span class="ui-icon ui-icon-circle-close">&nbsp;</span></button>
+                        <input class="button" type="submit" value="Search">
+                    </div>
+                </form>
+                            </div>
+        </div>
+        </header>
+        <div id="content">
+            <div class="center container">
+            <!-- Output the breadcrumb if it's set -->
+                            <div id="breadcrumbs">
+                    <a href='/'>Home</a> > <a href='/groups'>Groups</a> > IPBES IAS                </div>
+                        
+            <!-- Output any stored messages -->
+                                                                                                            
+            <!-- hidden area for possible JS messages -->
+            <div id="js-message">
+                <ul id="js-message-list">
+                </ul>
+            </div>
+
+            <!-- Output content -->
+            <div id="group-show" class="major-col">
+    <h1>IPBES IAS</h1>
+    <span id="libraryGroupID" title="2352922"></span>
+    <nav class="action-links">
+        <ul>
+        <!-- group library link -->
+                    <li><a href="/groups/2352922/ipbes_ias/items">Group Library</a></li>
+                
+        <!-- settings link -->
+                </ul>
+    </nav>
+    <!-- Recent Items List -->
+    <div id="new-group-items">
+	    <h2>Recently Added Items</h2>
+        <div id='react-recentItems'><noscript>
+	<div class='noscript-warning'>
+		<p>It appears that something is blocking scripts from running on this page. Some functionality may be missing or not work properly.</p>
+	</div>
+</noscript></div>
+    </div>
+    
+    <!-- Recent Messages List -->
+                    
+</div>
+<div class="minor-col last-col">
+    
+    <div id='react-joinGroup'></div>
+    
+    <div id='react-groupInfo'></div>
+
+    <!-- Member list -->
+    <h2><a href="/groups/2352922/ipbes_ias/members">Members (4)</a></h2>
+        </div>
+</div>
+
+<script type="text/javascript" charset="utf-8" nonce="qeto0qfy4b">
+    var zoterojsClass = "group_view";
+    var zoterojsSearchContext = "group";
+
+    ZoteroWebComponents.pageReady(function() {
+        if(document.getElementById('react-groupInfo')) {
+            window.groupInfoComponent = ReactDOM.render(
+                React.createElement(ZoteroWebComponents.GroupInfo, {"group":{"id":2352922,"version":222,"links":{"self":{"href":"https:\/\/api.zotero.org\/groups\/2352922","type":"application\/json"},"alternate":{"href":"https:\/\/www.zotero.org\/groups\/ipbes_ias","type":"text\/html"}},"meta":{"created":"2019-07-26T12:13:10Z","lastModified":"2025-04-10T08:37:03Z","numItems":12878},"data":{"id":2352922,"version":222,"name":"IPBES IAS","owner":5760254,"type":"PublicClosed","description":"<p>Library of the underlying references<\/p>\n<p><strong>Thematic Assessment of Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services<\/strong><\/p>\n<p>This library contains the references cited in the assessment report and its glossary.<\/p>\n<p>The tags indicate in which chapter(s) the references were cited.<\/p>\n<p>Download <a href=\"https:\/\/zenodo.org\/records\/10795593\" rel=\"nofollow\">the full assessment report<\/a><\/p>\n<p>See the <a href=\"https:\/\/www.ipbes.net\/ias\" rel=\"nofollow\">assessment information page on the IPBES website<\/a><\/p>\n<p>For enquiries, please contact the IPBES Data and Knowledge Unit (<a href=\"mailto:aidin.niamir@senckenberg.de\">aidin.niamir@senckenberg.de<\/a>)<\/p>","url":"https:\/\/www.ipbes.net\/ias","hasImage":1,"libraryEditing":"admins","libraryReading":"all","fileEditing":"admins","admins":[5825730,10318906],"members":[12022430]}},"pending":false,"ownershipInvitation":false,"displayNames":{"displayName":{"5760254":"IPBES Secretariat"},"slug":{"5760254":"ipbes"}},"groupImage":"https:\/\/s3.amazonaws.com\/zotero.org\/images\/settings\/group\/2352922_200px.png"}),
+                document.getElementById('react-groupInfo')
+            );
+        }
+        if(document.getElementById('react-recentItems')) {
+            window.recentItemsComponent = ReactDOM.render(
+                React.createElement(ZoteroWebComponents.RecentItems, {"group":{"id":2352922,"version":222,"links":{"self":{"href":"https:\/\/api.zotero.org\/groups\/2352922","type":"application\/json"},"alternate":{"href":"https:\/\/www.zotero.org\/groups\/ipbes_ias","type":"text\/html"}},"meta":{"created":"2019-07-26T12:13:10Z","lastModified":"2025-04-10T08:37:03Z","numItems":12878},"data":{"id":2352922,"version":222,"name":"IPBES IAS","owner":5760254,"type":"PublicClosed","description":"<p>Library of the underlying references<\/p>\n<p><strong>Thematic Assessment of Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services<\/strong><\/p>\n<p>This library contains the references cited in the assessment report and its glossary.<\/p>\n<p>The tags indicate in which chapter(s) the references were cited.<\/p>\n<p>Download <a href=\"https:\/\/zenodo.org\/records\/10795593\" rel=\"nofollow\">the full assessment report<\/a><\/p>\n<p>See the <a href=\"https:\/\/www.ipbes.net\/ias\" rel=\"nofollow\">assessment information page on the IPBES website<\/a><\/p>\n<p>For enquiries, please contact the IPBES Data and Knowledge Unit (<a href=\"mailto:aidin.niamir@senckenberg.de\">aidin.niamir@senckenberg.de<\/a>)<\/p>","url":"https:\/\/www.ipbes.net\/ias","hasImage":1,"libraryEditing":"admins","libraryReading":"all","fileEditing":"admins","admins":[5825730,10318906],"members":[12022430]}}}),
+                document.getElementById('react-recentItems')
+            );
+        }
+        if(document.getElementById('react-newDiscussions')) {
+			window.recentItemsComponent = ReactDOM.render(
+				React.createElement(ZoteroWebComponents.NewGroupDiscussions, {"group":{"id":2352922,"version":222,"links":{"self":{"href":"https:\/\/api.zotero.org\/groups\/2352922","type":"application\/json"},"alternate":{"href":"https:\/\/www.zotero.org\/groups\/ipbes_ias","type":"text\/html"}},"meta":{"created":"2019-07-26T12:13:10Z","lastModified":"2025-04-10T08:37:03Z","numItems":12878},"data":{"id":2352922,"version":222,"name":"IPBES IAS","owner":5760254,"type":"PublicClosed","description":"<p>Library of the underlying references<\/p>\n<p><strong>Thematic Assessment of Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services<\/strong><\/p>\n<p>This library contains the references cited in the assessment report and its glossary.<\/p>\n<p>The tags indicate in which chapter(s) the references were cited.<\/p>\n<p>Download <a href=\"https:\/\/zenodo.org\/records\/10795593\" rel=\"nofollow\">the full assessment report<\/a><\/p>\n<p>See the <a href=\"https:\/\/www.ipbes.net\/ias\" rel=\"nofollow\">assessment information page on the IPBES website<\/a><\/p>\n<p>For enquiries, please contact the IPBES Data and Knowledge Unit (<a href=\"mailto:aidin.niamir@senckenberg.de\">aidin.niamir@senckenberg.de<\/a>)<\/p>","url":"https:\/\/www.ipbes.net\/ias","hasImage":1,"libraryEditing":"admins","libraryReading":"all","fileEditing":"admins","admins":[5825730,10318906],"members":[12022430]}},"showFields":{"title":true,"starter":true,"lastActive":true,"lastPoster":true,"group":false}}),
+				document.getElementById('react-newDiscussions')
+			);
+		}
+    });
+</script>            </div>
+        </div>
+        <footer>
+            <div class="center container">
+                <nav role="secondary">
+                    <ul>
+                        <!-- <li><a href="#">Give Us Feedback</a></li> -->
+                        <li><a href="https://www.zotero.org/blog/">Blog</a></li>
+                        <li><a href="https://forums.zotero.org">Forums</a></li>
+                        <li><a href="https://www.zotero.org/support/dev/start">Developers</a></li>
+                        <li><a href="https://www.zotero.org/support/">Documentation</a></li>
+                        <li><a href="https://www.zotero.org/support/privacy">Privacy</a></li>
+                        <li><a href="https://www.zotero.org/getinvolved/">Get Involved</a></li>
+                        <li><a href="https://www.zotero.org/jobs">Jobs</a></li>
+                        <li class="last"><a href="https://www.zotero.org/about/">About</a></li>
+                    </ul>
+                </nav>
+                <p class="about">Zotero is a project of <a href="http://digitalscholar.org/">Digital Scholar</a>, a nonprofit organization dedicated to the development of software and services for researchers and cultural heritage institutions, and is developed by a <a href="/support/credits_and_acknowledgments">global community</a>.</p>
+            </div>
+        </footer>
+        
+        <script type="text/javascript" charset="utf-8" src="/static/js/_zoterowwwAll.bugly.1698016953.js"></script>
+
+        <!-- End zoteroLibrary modules. -->
+                    <script type="text/javascript" charset="utf-8" nonce="qeto0qfy4b">
+                            </script>
+            </body>
+</html>
