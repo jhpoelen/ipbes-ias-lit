@@ -1,0 +1,5918 @@
+[
+    {
+        "key": "M2LGXNAZ",
+        "version": 14966,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/M2LGXNAZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/M2LGXNAZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/Y8SDNIX3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "M2LGXNAZ",
+            "version": 14966,
+            "parentItem": "Y8SDNIX3",
+            "itemType": "note",
+            "note": "<p>Cited By :19</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:33:53Z",
+            "dateModified": "2020-02-22T15:33:53Z"
+        }
+    },
+    {
+        "key": "6GR8URGD",
+        "version": 14966,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/6GR8URGD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/6GR8URGD",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/Y8SDNIX3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "6GR8URGD",
+            "version": 14966,
+            "parentItem": "Y8SDNIX3",
+            "itemType": "note",
+            "note": "<p>Export Date: 19 February 2020</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:33:53Z",
+            "dateModified": "2020-02-22T15:33:53Z"
+        }
+    },
+    {
+        "key": "ZYI5BXET",
+        "version": 14962,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/ZYI5BXET",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/ZYI5BXET",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/QR5ZE5R5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ZYI5BXET",
+            "version": 14962,
+            "parentItem": "QR5ZE5R5",
+            "itemType": "note",
+            "note": "<p>Cited By :50</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:33:53Z",
+            "dateModified": "2020-02-22T15:33:53Z"
+        }
+    },
+    {
+        "key": "8QLRHMTS",
+        "version": 14962,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/8QLRHMTS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/8QLRHMTS",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/BHLBTUTI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "8QLRHMTS",
+            "version": 14962,
+            "parentItem": "BHLBTUTI",
+            "itemType": "note",
+            "note": "<p>Export Date: 19 February 2020</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:33:53Z",
+            "dateModified": "2020-02-22T15:33:53Z"
+        }
+    },
+    {
+        "key": "KPB4U3MD",
+        "version": 14962,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/KPB4U3MD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/KPB4U3MD",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/BHLBTUTI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "KPB4U3MD",
+            "version": 14962,
+            "parentItem": "BHLBTUTI",
+            "itemType": "note",
+            "note": "<p>Cited By :19</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:33:53Z",
+            "dateModified": "2020-02-22T15:33:53Z"
+        }
+    },
+    {
+        "key": "BYXYAY7I",
+        "version": 14962,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/BYXYAY7I",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/BYXYAY7I",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/QR5ZE5R5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "BYXYAY7I",
+            "version": 14962,
+            "parentItem": "QR5ZE5R5",
+            "itemType": "note",
+            "note": "<p>Export Date: 19 February 2020</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:33:53Z",
+            "dateModified": "2020-02-22T15:33:53Z"
+        }
+    },
+    {
+        "key": "NWQ7R4SN",
+        "version": 14961,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/NWQ7R4SN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/NWQ7R4SN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/U6EMKXQ4",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "NWQ7R4SN",
+            "version": 14961,
+            "parentItem": "U6EMKXQ4",
+            "itemType": "note",
+            "note": "<p>Export Date: 19 February 2020</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:33:53Z",
+            "dateModified": "2020-02-22T15:33:53Z"
+        }
+    },
+    {
+        "key": "I3JKGFTA",
+        "version": 14936,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/I3JKGFTA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/I3JKGFTA",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/WLNQZXWN",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "I3JKGFTA",
+            "version": 14936,
+            "parentItem": "WLNQZXWN",
+            "itemType": "note",
+            "note": "<p>Export Date: 19 February 2020</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:19:48Z",
+            "dateModified": "2020-02-22T15:19:48Z"
+        }
+    },
+    {
+        "key": "ZRGVY27N",
+        "version": 14936,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/ZRGVY27N",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/ZRGVY27N",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/WLNQZXWN",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ZRGVY27N",
+            "version": 14936,
+            "parentItem": "WLNQZXWN",
+            "itemType": "note",
+            "note": "<p>Cited By :12</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T15:19:48Z",
+            "dateModified": "2020-02-22T15:19:48Z"
+        }
+    },
+    {
+        "key": "L9HSWD28",
+        "version": 14935,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/L9HSWD28",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/L9HSWD28",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/7P33C5NM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "L9HSWD28",
+            "version": 14935,
+            "parentItem": "7P33C5NM",
+            "itemType": "note",
+            "note": "<p>Export Date: 19 February 2020</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T13:44:10Z",
+            "dateModified": "2020-02-22T13:44:10Z"
+        }
+    },
+    {
+        "key": "SAC5YVW9",
+        "version": 14935,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SAC5YVW9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SAC5YVW9",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/7P33C5NM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "SAC5YVW9",
+            "version": 14935,
+            "parentItem": "7P33C5NM",
+            "itemType": "note",
+            "note": "<p>Cited By :9</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-22T13:44:10Z",
+            "dateModified": "2020-02-22T13:44:10Z"
+        }
+    },
+    {
+        "key": "3M3E4GD3",
+        "version": 14860,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/3M3E4GD3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/3M3E4GD3",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/AR2YGWJH",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3M3E4GD3",
+            "version": 14860,
+            "parentItem": "AR2YGWJH",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Burt et al. - 2007 - Preventing horticultural introductions of invasive.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Burt et al. - 2007 - Preventing horticultural introductions of invasive.pdf",
+            "md5": "42ecf1c9b78dcd6a2a67e3ac479c6b48",
+            "mtime": 1582302569000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-21T16:29:29Z",
+            "dateModified": "2020-02-21T16:29:29Z"
+        }
+    },
+    {
+        "key": "EW2WM4PT",
+        "version": 14863,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/EW2WM4PT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/EW2WM4PT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/LC7G38FZ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "EW2WM4PT",
+            "version": 14863,
+            "parentItem": "LC7G38FZ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Accepted Version",
+            "accessDate": "2020-02-21T16:28:44Z",
+            "url": "https://gala.gre.ac.uk/id/eprint/17066/7/17066%20OUTHWAITE_Neither_Fish_Nor_Fowl_2017.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Outhwaite - 2017 - Neither Fish, nor Fowl Honeybees and the Paramete.pdf",
+            "md5": "d9bdbe1b64569b221517a549a5e48b6c",
+            "mtime": 1582302524000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-21T16:28:44Z",
+            "dateModified": "2020-02-21T16:28:44Z"
+        }
+    },
+    {
+        "key": "R7XCE9B4",
+        "version": 14864,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/R7XCE9B4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/R7XCE9B4",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/LC7G38FZ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "R7XCE9B4",
+            "version": 14864,
+            "parentItem": "LC7G38FZ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2020-02-21T16:28:25Z",
+            "url": "https://academic.oup.com/jel/article-abstract/29/2/317/3583221#",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "3583221.html",
+            "md5": "44658460d78ed05bea69ab3da3220a25",
+            "mtime": 1582302505000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-21T16:28:25Z",
+            "dateModified": "2020-02-21T16:28:25Z"
+        }
+    },
+    {
+        "key": "EDBNWTQ6",
+        "version": 14862,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/EDBNWTQ6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/EDBNWTQ6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/LC7G38FZ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "EDBNWTQ6",
+            "version": 14862,
+            "parentItem": "LC7G38FZ",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Neither Fish, nor Fowl- Honeybees and the Parameters of Current Legal Frameworks for Animals, Wildlife and Biodiversity.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Neither Fish, nor Fowl- Honeybees and the Parameters of Current Legal Frameworks for Animals, Wildlife and Biodiversity.pdf",
+            "md5": "b18845d151acba269aa8172437836a9b",
+            "mtime": 1582302166000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-21T16:22:46Z",
+            "dateModified": "2020-02-21T16:27:35Z"
+        }
+    },
+    {
+        "key": "EVF84ZQZ",
+        "version": 14808,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/EVF84ZQZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/EVF84ZQZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/NVARK385",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "EVF84ZQZ",
+            "version": 14808,
+            "parentItem": "NVARK385",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Tanentzap et al. - 2009 - A Human Security Framework for the Management of I.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Tanentzap et al. - 2009 - A Human Security Framework for the Management of I.pdf",
+            "md5": "af5e1733e7a09f30c52c59ee16176c7a",
+            "mtime": 1582298689000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-21T15:24:23Z",
+            "dateModified": "2020-02-21T15:24:49Z"
+        }
+    },
+    {
+        "key": "3UYU4UF3",
+        "version": 83628,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/3UYU4UF3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/3UYU4UF3",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/2Z5U8XMI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3UYU4UF3",
+            "version": 83628,
+            "parentItem": "2Z5U8XMI",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000472141200007",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:15Z",
+            "dateModified": "2020-02-16T03:54:15Z"
+        }
+    },
+    {
+        "key": "WKQUYZ9U",
+        "version": 15504,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/WKQUYZ9U",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/WKQUYZ9U",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/2Z5U8XMI",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "WKQUYZ9U",
+            "version": 15504,
+            "parentItem": "2Z5U8XMI",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>0<br/>2211-4505</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:15Z",
+            "dateModified": "2020-02-16T03:54:15Z"
+        }
+    },
+    {
+        "key": "XPRK5ZCJ",
+        "version": 83628,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/XPRK5ZCJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/XPRK5ZCJ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/HEX98ZDH",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "XPRK5ZCJ",
+            "version": 83628,
+            "parentItem": "HEX98ZDH",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: Restor Ecol<br/>accession-num: WOS:000387366100006",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:14Z",
+            "dateModified": "2020-02-16T03:54:14Z"
+        }
+    },
+    {
+        "key": "YX2P58X3",
+        "version": 15504,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/YX2P58X3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/YX2P58X3",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/HEX98ZDH",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "YX2P58X3",
+            "version": 15504,
+            "parentItem": "HEX98ZDH",
+            "itemType": "note",
+            "note": "<p>Times Cited: 3<br/>Runhaar, Hens A.C./L-5395-2013<br/>Runhaar, Hens A.C./0000-0001-7790-097X<br/>0<br/>3<br/>1526-100x</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:14Z",
+            "dateModified": "2020-02-16T03:54:14Z"
+        }
+    },
+    {
+        "key": "ICSTWUW5",
+        "version": 83629,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/ICSTWUW5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/ICSTWUW5",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/HW248ETK",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ICSTWUW5",
+            "version": 83629,
+            "parentItem": "HW248ETK",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000318754900002",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:10Z",
+            "dateModified": "2020-02-16T03:54:10Z"
+        }
+    },
+    {
+        "key": "ZY29Y4SK",
+        "version": 15503,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/ZY29Y4SK",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/ZY29Y4SK",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/HW248ETK",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ZY29Y4SK",
+            "version": 15503,
+            "parentItem": "HW248ETK",
+            "itemType": "note",
+            "note": "<p>Times Cited: 19<br/>yu, jian/C-1280-2009; Gilek, Michael/<br/>Gilek, Michael/0000-0001-8536-373X<br/>0<br/>19<br/>1873-6416</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:10Z",
+            "dateModified": "2020-02-16T03:54:10Z"
+        }
+    },
+    {
+        "key": "AIXXLDB7",
+        "version": 83635,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/AIXXLDB7",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/AIXXLDB7",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/GL83G32Z",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "AIXXLDB7",
+            "version": 83635,
+            "parentItem": "GL83G32Z",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: BIOSIS:PREV201900057493",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:09Z",
+            "dateModified": "2020-02-16T03:54:09Z"
+        }
+    },
+    {
+        "key": "LJHQ236N",
+        "version": 15503,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LJHQ236N",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LJHQ236N",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/GL83G32Z",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LJHQ236N",
+            "version": 15503,
+            "parentItem": "GL83G32Z",
+            "itemType": "note",
+            "note": "<p>Times Cited: 2<br/>Ritterson, Ryan/0000-0002-1284-8709<br/>0<br/>3<br/>2194-5411</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:09Z",
+            "dateModified": "2020-02-16T03:54:09Z"
+        }
+    },
+    {
+        "key": "FN78GL8E",
+        "version": 83636,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/FN78GL8E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/FN78GL8E",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/K5CN724I",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "FN78GL8E",
+            "version": 83636,
+            "parentItem": "K5CN724I",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000386695300005<br/>electronic-resource-num: 10.1007/978-3-319-27006-7_4",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:00Z",
+            "dateModified": "2020-02-16T03:54:00Z"
+        }
+    },
+    {
+        "key": "Z7C8B97R",
+        "version": 15501,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/Z7C8B97R",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/Z7C8B97R",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/K5CN724I",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "Z7C8B97R",
+            "version": 15501,
+            "parentItem": "K5CN724I",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>Smolarz, Katarzyna/R-6677-2018<br/>Smolarz, Katarzyna/0000-0002-0205-7268<br/>2212-6260</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:54:00Z",
+            "dateModified": "2020-02-16T03:54:00Z"
+        }
+    },
+    {
+        "key": "PN682LHD",
+        "version": 83636,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/PN682LHD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/PN682LHD",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/QVBYT7RA",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "PN682LHD",
+            "version": 83636,
+            "parentItem": "QVBYT7RA",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000457221000001",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:54Z",
+            "dateModified": "2020-02-16T03:53:54Z"
+        }
+    },
+    {
+        "key": "DY4EHPPT",
+        "version": 15499,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/DY4EHPPT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/DY4EHPPT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/QVBYT7RA",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "DY4EHPPT",
+            "version": 15499,
+            "parentItem": "QVBYT7RA",
+            "itemType": "note",
+            "note": "<p>Times Cited: 2<br/>Dickey-Collas, Mark/A-8036-2008; Rudd, Murray/C-1244-2009; Link, Jason/<br/>Rudd, Murray/0000-0001-9533-5070; Link, Jason/0000-0003-2740-7161<br/>0<br/>2<br/>2296-7745</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:54Z",
+            "dateModified": "2020-02-16T03:53:54Z"
+        }
+    },
+    {
+        "key": "86JXTG7P",
+        "version": 83636,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/86JXTG7P",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/86JXTG7P",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/8B9BDBCK",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "86JXTG7P",
+            "version": 83636,
+            "parentItem": "8B9BDBCK",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000430003000004",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:53Z",
+            "dateModified": "2020-02-16T03:53:53Z"
+        }
+    },
+    {
+        "key": "IQ773J3E",
+        "version": 15499,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/IQ773J3E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/IQ773J3E",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/8B9BDBCK",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "IQ773J3E",
+            "version": 15499,
+            "parentItem": "8B9BDBCK",
+            "itemType": "note",
+            "note": "<p>Times Cited: 3<br/>Rouillard, Josselin/0000-0002-1070-5325<br/>0<br/>3<br/>1756-9338</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:53Z",
+            "dateModified": "2020-02-16T03:53:53Z"
+        }
+    },
+    {
+        "key": "VLN9LKYP",
+        "version": 83636,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/VLN9LKYP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/VLN9LKYP",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/VU9YTG2M",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "VLN9LKYP",
+            "version": 83636,
+            "parentItem": "VU9YTG2M",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: Ecol Soc<br/>accession-num: WOS:000306067400025",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:49Z",
+            "dateModified": "2020-02-16T03:53:49Z"
+        }
+    },
+    {
+        "key": "PDGA7ZA6",
+        "version": 83636,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/PDGA7ZA6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/PDGA7ZA6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3MLHJ4IF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "PDGA7ZA6",
+            "version": 83636,
+            "parentItem": "3MLHJ4IF",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: Environ Plan Law J<br/>accession-num: WOS:000213725200002",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:47Z",
+            "dateModified": "2020-02-16T03:53:47Z"
+        }
+    },
+    {
+        "key": "RNG3PMWZ",
+        "version": 15498,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/RNG3PMWZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/RNG3PMWZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3MLHJ4IF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "RNG3PMWZ",
+            "version": 15498,
+            "parentItem": "3MLHJ4IF",
+            "itemType": "note",
+            "note": "<p>Times Cited: 2<br/>0<br/>2</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:47Z",
+            "dateModified": "2020-02-16T03:53:47Z"
+        }
+    },
+    {
+        "key": "TQV34FBX",
+        "version": 83483,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/TQV34FBX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/TQV34FBX",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3PGKCLKA",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "TQV34FBX",
+            "version": 83483,
+            "parentItem": "3PGKCLKA",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: Disaster Prev Manage<br/>accession-num: WOS:000291128900003",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:43Z",
+            "dateModified": "2020-02-16T03:53:43Z"
+        }
+    },
+    {
+        "key": "SJG2DHJL",
+        "version": 15497,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SJG2DHJL",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SJG2DHJL",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3PGKCLKA",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "SJG2DHJL",
+            "version": 15497,
+            "parentItem": "3PGKCLKA",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>0</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:43Z",
+            "dateModified": "2020-02-16T03:53:43Z"
+        }
+    },
+    {
+        "key": "63ZPRRVA",
+        "version": 83541,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/63ZPRRVA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/63ZPRRVA",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/SATUWW92",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "63ZPRRVA",
+            "version": 83541,
+            "parentItem": "SATUWW92",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000393723400006",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:42Z",
+            "dateModified": "2020-02-16T03:53:42Z"
+        }
+    },
+    {
+        "key": "HTZKRUY4",
+        "version": 15497,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/HTZKRUY4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/HTZKRUY4",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/SATUWW92",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "HTZKRUY4",
+            "version": 15497,
+            "parentItem": "SATUWW92",
+            "itemType": "note",
+            "note": "<p>Times Cited: 10<br/>Tejedo, Pablo/A-7163-2010; Benayas, Javier/E-5663-2017; Pertierra, Luis R./AAA-2598-2020; Pertierra, Luis R./K-3727-2017<br/>Tejedo, Pablo/0000-0002-1865-0445; Benayas, Javier/0000-0002-5906-9569; Pertierra, Luis R./0000-0002-2232-428X; Pertierra, Luis R./0000-0002-2232-428X<br/>0<br/>10<br/>1873-6416</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:42Z",
+            "dateModified": "2020-02-16T03:53:42Z"
+        }
+    },
+    {
+        "key": "GEZBLGEU",
+        "version": 83637,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/GEZBLGEU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/GEZBLGEU",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/7MKNKPM5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "GEZBLGEU",
+            "version": 83637,
+            "parentItem": "7MKNKPM5",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000490765800002",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:32Z",
+            "dateModified": "2020-02-16T03:53:32Z"
+        }
+    },
+    {
+        "key": "NZPETHRY",
+        "version": 15494,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/NZPETHRY",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/NZPETHRY",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/7MKNKPM5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "NZPETHRY",
+            "version": 15494,
+            "parentItem": "7MKNKPM5",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>0<br/>1077-5315</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:32Z",
+            "dateModified": "2020-02-16T03:53:32Z"
+        }
+    },
+    {
+        "key": "YTLLF8I4",
+        "version": 83637,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/YTLLF8I4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/YTLLF8I4",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/5JUVBPFT",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "YTLLF8I4",
+            "version": 83637,
+            "parentItem": "5JUVBPFT",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000434459000011",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:27Z",
+            "dateModified": "2020-02-16T03:53:27Z"
+        }
+    },
+    {
+        "key": "DH6DLGPT",
+        "version": 15493,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/DH6DLGPT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/DH6DLGPT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/5JUVBPFT",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "DH6DLGPT",
+            "version": 15493,
+            "parentItem": "5JUVBPFT",
+            "itemType": "note",
+            "note": "<p>Times Cited: 4<br/>Si<br/>1<br/>Bell, E/M-9188-2018; Brown, Zachary/<br/>Bell, E/0000-0003-4896-3327; Brown, Zachary/0000-0003-1301-4420<br/>0<br/>4<br/>2329-9037</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:27Z",
+            "dateModified": "2020-02-16T03:53:27Z"
+        }
+    },
+    {
+        "key": "D94LIU73",
+        "version": 83638,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/D94LIU73",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/D94LIU73",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/GMLBRS2S",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "D94LIU73",
+            "version": 83638,
+            "parentItem": "GMLBRS2S",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: Environ Plan Law J<br/>accession-num: WOS:000451794100006",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:24Z",
+            "dateModified": "2020-02-16T03:53:24Z"
+        }
+    },
+    {
+        "key": "GF6QBGYQ",
+        "version": 15493,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/GF6QBGYQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/GF6QBGYQ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/GMLBRS2S",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "GF6QBGYQ",
+            "version": 15493,
+            "parentItem": "GMLBRS2S",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>0</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:24Z",
+            "dateModified": "2020-02-16T03:53:24Z"
+        }
+    },
+    {
+        "key": "WE9YTQFS",
+        "version": 83638,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/WE9YTQFS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/WE9YTQFS",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/BMBKHVLX",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "WE9YTQFS",
+            "version": 83638,
+            "parentItem": "BMBKHVLX",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000398928900029<br/>electronic-resource-num: 10.1007/978-3-319-28112-4_28",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:23Z",
+            "dateModified": "2020-02-16T03:53:23Z"
+        }
+    },
+    {
+        "key": "BM6P62UU",
+        "version": 15492,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/BM6P62UU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/BM6P62UU",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/BMBKHVLX",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "BM6P62UU",
+            "version": 15492,
+            "parentItem": "BMBKHVLX",
+            "itemType": "note",
+            "note": "<p>Times Cited: 1<br/>0921-092x</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:23Z",
+            "dateModified": "2020-02-16T03:53:23Z"
+        }
+    },
+    {
+        "key": "3X6S6WJ8",
+        "version": 83638,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/3X6S6WJ8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/3X6S6WJ8",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/BG76YHBC",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3X6S6WJ8",
+            "version": 83638,
+            "parentItem": "BG76YHBC",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000445695900008",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:16Z",
+            "dateModified": "2020-02-16T03:53:16Z"
+        }
+    },
+    {
+        "key": "C8KDMZX2",
+        "version": 15491,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/C8KDMZX2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/C8KDMZX2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/BG76YHBC",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "C8KDMZX2",
+            "version": 15491,
+            "parentItem": "BG76YHBC",
+            "itemType": "note",
+            "note": "<p>Times Cited: 24<br/>Millington, James/B-5931-2008; Romulo, Chelsie/; Dou, Yue/; Zhao, Zhiqiang/; Parish, Esther/; Chung, Min Gon/; Basher, Zeenatul/<br/>Millington, James/0000-0002-5099-0001; Romulo, Chelsie/0000-0003-1612-1969; Dou, Yue/0000-0001-6320-5482; Zhao, Zhiqiang/0000-0002-6249-5702; Parish, Esther/0000-0001-9264-6295; Chung, Min Gon/0000-0002-7177-7189; Basher, Zeenatul/0000-0002-6439-8324<br/>0<br/>24<br/>1877-3443</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:16Z",
+            "dateModified": "2020-02-16T03:53:16Z"
+        }
+    },
+    {
+        "key": "GZBH6MIN",
+        "version": 83638,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/GZBH6MIN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/GZBH6MIN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XM93LHZS",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "GZBH6MIN",
+            "version": 83638,
+            "parentItem": "XM93LHZS",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000386695300009<br/>electronic-resource-num: 10.1007/978-3-319-27006-7_8",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:15Z",
+            "dateModified": "2020-02-16T03:53:15Z"
+        }
+    },
+    {
+        "key": "C4K55E58",
+        "version": 15491,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/C4K55E58",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/C4K55E58",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XM93LHZS",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "C4K55E58",
+            "version": 15491,
+            "parentItem": "XM93LHZS",
+            "itemType": "note",
+            "note": "<p>Times Cited: 2<br/>2212-6260</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:15Z",
+            "dateModified": "2020-02-16T03:53:15Z"
+        }
+    },
+    {
+        "key": "58INVML9",
+        "version": 83639,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/58INVML9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/58INVML9",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/ZW3C6SWM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "58INVML9",
+            "version": 83639,
+            "parentItem": "ZW3C6SWM",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: Conserv Biol<br/>accession-num: WOS:000495818000006",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:09Z",
+            "dateModified": "2020-02-16T03:53:09Z"
+        }
+    },
+    {
+        "key": "3A2DA2AV",
+        "version": 15489,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/3A2DA2AV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/3A2DA2AV",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/ZW3C6SWM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3A2DA2AV",
+            "version": 15489,
+            "parentItem": "ZW3C6SWM",
+            "itemType": "note",
+            "note": "<p>Times Cited: 4<br/>Xenos, Michael/0000-0002-2604-172X<br/>0<br/>4<br/>1523-1739</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:53:09Z",
+            "dateModified": "2020-02-16T03:53:09Z"
+        }
+    },
+    {
+        "key": "RJWT3UZG",
+        "version": 83640,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/RJWT3UZG",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/RJWT3UZG",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/79XB9BII",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "RJWT3UZG",
+            "version": 83640,
+            "parentItem": "79XB9BII",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000386695300010<br/>electronic-resource-num: 10.1007/978-3-319-27006-7_9",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:59Z",
+            "dateModified": "2020-02-16T03:52:59Z"
+        }
+    },
+    {
+        "key": "CCXSD8CJ",
+        "version": 15488,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/CCXSD8CJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/CCXSD8CJ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/79XB9BII",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "CCXSD8CJ",
+            "version": 15488,
+            "parentItem": "79XB9BII",
+            "itemType": "note",
+            "note": "<p>Times Cited: 3<br/>2212-6260</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:59Z",
+            "dateModified": "2020-02-16T03:52:59Z"
+        }
+    },
+    {
+        "key": "Y3BE2P4Q",
+        "version": 83630,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/Y3BE2P4Q",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/Y3BE2P4Q",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/KCMLAMR5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "Y3BE2P4Q",
+            "version": 83630,
+            "parentItem": "KCMLAMR5",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000406694400026",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:57Z",
+            "dateModified": "2020-02-16T03:52:57Z"
+        }
+    },
+    {
+        "key": "LZ7YC9L5",
+        "version": 15487,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LZ7YC9L5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LZ7YC9L5",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/KCMLAMR5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LZ7YC9L5",
+            "version": 15487,
+            "parentItem": "KCMLAMR5",
+            "itemType": "note",
+            "note": "<p>Times Cited: 4<br/>0<br/>4</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:57Z",
+            "dateModified": "2020-02-16T03:52:57Z"
+        }
+    },
+    {
+        "key": "5RDLSUPN",
+        "version": 83630,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/5RDLSUPN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/5RDLSUPN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/43R8DHN4",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "5RDLSUPN",
+            "version": 83630,
+            "parentItem": "43R8DHN4",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: N Am J Fish Manage<br/>accession-num: WOS:000486903200001",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:52Z",
+            "dateModified": "2020-02-16T03:52:52Z"
+        }
+    },
+    {
+        "key": "NHR8BY6L",
+        "version": 15486,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/NHR8BY6L",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/NHR8BY6L",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/43R8DHN4",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "NHR8BY6L",
+            "version": 15486,
+            "parentItem": "43R8DHN4",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>0<br/>1548-8675</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:52Z",
+            "dateModified": "2020-02-16T03:52:52Z"
+        }
+    },
+    {
+        "key": "273R8PYH",
+        "version": 83630,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/273R8PYH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/273R8PYH",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/CJ7IDGDF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "273R8PYH",
+            "version": 83630,
+            "parentItem": "CJ7IDGDF",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000478735000002",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:51Z",
+            "dateModified": "2020-02-16T03:52:51Z"
+        }
+    },
+    {
+        "key": "SPYU2Y6D",
+        "version": 15486,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SPYU2Y6D",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SPYU2Y6D",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/CJ7IDGDF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "SPYU2Y6D",
+            "version": 15486,
+            "parentItem": "CJ7IDGDF",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>0<br/>1756-9338</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:51Z",
+            "dateModified": "2020-02-16T03:52:51Z"
+        }
+    },
+    {
+        "key": "A6KF2FTR",
+        "version": 83481,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/A6KF2FTR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/A6KF2FTR",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/66ZSWCJ4",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "A6KF2FTR",
+            "version": 83481,
+            "parentItem": "66ZSWCJ4",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: Biol Invasions<br/>accession-num: WOS:000338444500009",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:38Z",
+            "dateModified": "2020-02-16T03:52:38Z"
+        }
+    },
+    {
+        "key": "4PKLUCZP",
+        "version": 15483,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/4PKLUCZP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/4PKLUCZP",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/66ZSWCJ4",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "4PKLUCZP",
+            "version": 15483,
+            "parentItem": "66ZSWCJ4",
+            "itemType": "note",
+            "note": "<p>Times Cited: 5<br/>Si<br/>Kuzma, Jennifer/0000-0003-4456-9613<br/>0<br/>6<br/>1573-1464</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:38Z",
+            "dateModified": "2020-02-16T03:52:38Z"
+        }
+    },
+    {
+        "key": "3N5UAHHC",
+        "version": 83631,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/3N5UAHHC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/3N5UAHHC",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/2IKJ4NA6",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3N5UAHHC",
+            "version": 83631,
+            "parentItem": "2IKJ4NA6",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000386695300002<br/>electronic-resource-num: 10.1007/978-3-319-27006-7_1",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:36Z",
+            "dateModified": "2020-02-16T03:52:36Z"
+        }
+    },
+    {
+        "key": "362YLGJH",
+        "version": 15483,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/362YLGJH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/362YLGJH",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/2IKJ4NA6",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "362YLGJH",
+            "version": 15483,
+            "parentItem": "2IKJ4NA6",
+            "itemType": "note",
+            "note": "<p>Times Cited: 3<br/>Smolarz, Katarzyna/R-6677-2018<br/>Smolarz, Katarzyna/0000-0002-0205-7268<br/>2212-6260</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:36Z",
+            "dateModified": "2020-02-16T03:52:36Z"
+        }
+    },
+    {
+        "key": "8Q7UP8PQ",
+        "version": 83631,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/8Q7UP8PQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/8Q7UP8PQ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/I6VWZJEU",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "8Q7UP8PQ",
+            "version": 83631,
+            "parentItem": "I6VWZJEU",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000386695300011<br/>electronic-resource-num: 10.1007/978-3-319-27006-7_10",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:35Z",
+            "dateModified": "2020-02-16T03:52:35Z"
+        }
+    },
+    {
+        "key": "VBJCP3NX",
+        "version": 15482,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/VBJCP3NX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/VBJCP3NX",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/I6VWZJEU",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "VBJCP3NX",
+            "version": 15482,
+            "parentItem": "I6VWZJEU",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>2212-6260</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:35Z",
+            "dateModified": "2020-02-16T03:52:35Z"
+        }
+    },
+    {
+        "key": "LZQ4XJLW",
+        "version": 83632,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LZQ4XJLW",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LZQ4XJLW",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/S5YKXXGM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LZQ4XJLW",
+            "version": 83632,
+            "parentItem": "S5YKXXGM",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>abbr-2: Conserv Biol<br/>accession-num: WOS:000301981100018",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:27Z",
+            "dateModified": "2020-02-16T03:52:27Z"
+        }
+    },
+    {
+        "key": "BV3EUTZJ",
+        "version": 15481,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/BV3EUTZJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/BV3EUTZJ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/S5YKXXGM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "BV3EUTZJ",
+            "version": 15481,
+            "parentItem": "S5YKXXGM",
+            "itemType": "note",
+            "note": "<p>Times Cited: 28<br/>White, Piran Crawfurd Limond/0000-0002-7496-5775<br/>1<br/>28</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:27Z",
+            "dateModified": "2020-02-16T03:52:27Z"
+        }
+    },
+    {
+        "key": "JHE8YSCN",
+        "version": 83632,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/JHE8YSCN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/JHE8YSCN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XDBT9A2Z",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "JHE8YSCN",
+            "version": 83632,
+            "parentItem": "XDBT9A2Z",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000243929300004<br/>electronic-resource-num: 10.1007/978-3-540-46266-8_4",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:25Z",
+            "dateModified": "2020-02-16T03:52:25Z"
+        }
+    },
+    {
+        "key": "LQKHU28C",
+        "version": 15480,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LQKHU28C",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LQKHU28C",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XDBT9A2Z",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LQKHU28C",
+            "version": 15480,
+            "parentItem": "XDBT9A2Z",
+            "itemType": "note",
+            "note": "<p>Times Cited: 5<br/>International Symposium on Ecosystems Governance<br/>Oct 10-14, 2005<br/>South africa<br/>1614-810x</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:25Z",
+            "dateModified": "2020-02-16T03:52:25Z"
+        }
+    },
+    {
+        "key": "IILNB8CC",
+        "version": 83633,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/IILNB8CC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/IILNB8CC",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/I5YY6P3Z",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "IILNB8CC",
+            "version": 83633,
+            "parentItem": "I5YY6P3Z",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: MEDLINE:30079101",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:06Z",
+            "dateModified": "2020-02-16T03:52:06Z"
+        }
+    },
+    {
+        "key": "FA78IKYJ",
+        "version": 15476,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/FA78IKYJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/FA78IKYJ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/I5YY6P3Z",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "FA78IKYJ",
+            "version": 15476,
+            "parentItem": "I5YY6P3Z",
+            "itemType": "note",
+            "note": "<p>Times Cited: 10<br/>0<br/>10</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:06Z",
+            "dateModified": "2020-02-16T03:52:06Z"
+        }
+    },
+    {
+        "key": "C478TG9W",
+        "version": 15475,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/C478TG9W",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/C478TG9W",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/YXIR65GU",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "C478TG9W",
+            "version": 15475,
+            "parentItem": "YXIR65GU",
+            "itemType": "note",
+            "note": "<p>Times Cited: 42<br/>0<br/>42</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:52:02Z",
+            "dateModified": "2020-02-16T03:52:02Z"
+        }
+    },
+    {
+        "key": "T7RKCKIU",
+        "version": 83634,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/T7RKCKIU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/T7RKCKIU",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/RHL9NQPR",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "T7RKCKIU",
+            "version": 83634,
+            "parentItem": "RHL9NQPR",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: DRCI:DATA2016183009715072",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:51:54Z",
+            "dateModified": "2020-02-16T03:51:54Z"
+        }
+    },
+    {
+        "key": "H22UZX98",
+        "version": 15473,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/H22UZX98",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/H22UZX98",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/RHL9NQPR",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "H22UZX98",
+            "version": 15473,
+            "parentItem": "RHL9NQPR",
+            "itemType": "note",
+            "note": "<p>Times Cited: 0<br/>0</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:51:54Z",
+            "dateModified": "2020-02-16T03:51:54Z"
+        }
+    },
+    {
+        "key": "QGWCLNGC",
+        "version": 83634,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/QGWCLNGC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/QGWCLNGC",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3P28L9PQ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "QGWCLNGC",
+            "version": 83634,
+            "parentItem": "3P28L9PQ",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000386695300008<br/>electronic-resource-num: 10.1007/978-3-319-27006-7_7",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:51:53Z",
+            "dateModified": "2020-02-16T03:51:53Z"
+        }
+    },
+    {
+        "key": "PKK5RRFS",
+        "version": 15473,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/PKK5RRFS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/PKK5RRFS",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3P28L9PQ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "PKK5RRFS",
+            "version": 15473,
+            "parentItem": "3P28L9PQ",
+            "itemType": "note",
+            "note": "<p>Times Cited: 4<br/>2212-6260</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-16T03:51:53Z",
+            "dateModified": "2020-02-16T03:51:53Z"
+        }
+    },
+    {
+        "key": "9GG4ZGAB",
+        "version": 14709,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/9GG4ZGAB",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/9GG4ZGAB",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/JM99CUXL",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "9GG4ZGAB",
+            "version": 14709,
+            "parentItem": "JM99CUXL",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-03T13:26:22Z",
+            "url": "https://kar.kent.ac.uk/54686/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "54686.html",
+            "md5": "3a98fe3c0b5bc456f3e8361397a1d49a",
+            "mtime": 1581675476000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:17:56Z",
+            "dateModified": "2020-02-14T10:17:56Z"
+        }
+    },
+    {
+        "key": "3WG6UBYX",
+        "version": 14708,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/3WG6UBYX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/3WG6UBYX",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/JM99CUXL",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3WG6UBYX",
+            "version": 14708,
+            "parentItem": "JM99CUXL",
+            "itemType": "note",
+            "note": "<p>Cited in HAIS</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:17:56Z",
+            "dateModified": "2020-02-14T10:17:56Z"
+        }
+    },
+    {
+        "key": "IA8EZAKE",
+        "version": 14698,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/IA8EZAKE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/IA8EZAKE",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/RJN3TAP9",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "IA8EZAKE",
+            "version": 14698,
+            "parentItem": "RJN3TAP9",
+            "itemType": "note",
+            "note": "<p>Cited By :15</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:10:37Z",
+            "dateModified": "2020-02-14T10:10:37Z"
+        }
+    },
+    {
+        "key": "FKUATUTF",
+        "version": 14698,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/FKUATUTF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/FKUATUTF",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/RJN3TAP9",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "FKUATUTF",
+            "version": 14698,
+            "parentItem": "RJN3TAP9",
+            "itemType": "note",
+            "note": "<p>Export Date: 24 January 2018</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:10:37Z",
+            "dateModified": "2020-02-14T10:10:37Z"
+        }
+    },
+    {
+        "key": "7I58S3V2",
+        "version": 14667,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/7I58S3V2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/7I58S3V2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/CMYXUZG7",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "7I58S3V2",
+            "version": 14667,
+            "parentItem": "CMYXUZG7",
+            "itemType": "note",
+            "note": "<p>Export Date: 15 January 2018</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:07:16Z",
+            "dateModified": "2020-02-14T10:07:16Z"
+        }
+    },
+    {
+        "key": "TT5VJWHY",
+        "version": 14658,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/TT5VJWHY",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/TT5VJWHY",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/YLGWHCWC",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "TT5VJWHY",
+            "version": 14658,
+            "parentItem": "YLGWHCWC",
+            "itemType": "note",
+            "note": "<p>Cited By :1</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:06:58Z",
+            "dateModified": "2020-02-14T10:06:58Z"
+        }
+    },
+    {
+        "key": "LF8TDIR8",
+        "version": 14658,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LF8TDIR8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LF8TDIR8",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/YLGWHCWC",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LF8TDIR8",
+            "version": 14658,
+            "parentItem": "YLGWHCWC",
+            "itemType": "note",
+            "note": "<p>Notes taken in Invasive species not adaptation but useful for HABC</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:06:58Z",
+            "dateModified": "2020-02-14T10:06:58Z"
+        }
+    },
+    {
+        "key": "SVUCJ9B4",
+        "version": 14658,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SVUCJ9B4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SVUCJ9B4",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/YLGWHCWC",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "SVUCJ9B4",
+            "version": 14658,
+            "parentItem": "YLGWHCWC",
+            "itemType": "note",
+            "note": "<p>Export Date: 10 April 2018</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:06:58Z",
+            "dateModified": "2020-02-14T10:06:58Z"
+        }
+    },
+    {
+        "key": "CQ2UMUPZ",
+        "version": 14658,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/CQ2UMUPZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/CQ2UMUPZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/QFM78DUM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "CQ2UMUPZ",
+            "version": 14658,
+            "parentItem": "QFM78DUM",
+            "itemType": "note",
+            "note": "<p>Export Date: 17 February 2018</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:06:50Z",
+            "dateModified": "2020-02-14T10:06:50Z"
+        }
+    },
+    {
+        "key": "TH6PSWJZ",
+        "version": 14647,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/TH6PSWJZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/TH6PSWJZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/PL98EN7Q",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "TH6PSWJZ",
+            "version": 14647,
+            "parentItem": "PL98EN7Q",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Rai and Scarborough - 2013 - Economic value of mitigation of plant invaders in .pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Rai and Scarborough - 2013 - Economic value of mitigation of plant invaders in .pdf",
+            "md5": "3dd209d1f9978350622dd635b6e7d3a8",
+            "mtime": 1581674753000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T10:05:53Z",
+            "dateModified": "2020-02-14T10:05:53Z"
+        }
+    },
+    {
+        "key": "F4WQNXS2",
+        "version": 14579,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/F4WQNXS2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/F4WQNXS2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/6XWVQC52",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "F4WQNXS2",
+            "version": 14579,
+            "parentItem": "6XWVQC52",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Thorn - 2019 - Adaptation “from below” to changes in species dist.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Thorn - 2019 - Adaptation “from below” to changes in species dist.pdf",
+            "md5": "9cbf908fbde03f4adbd68d31c0add483",
+            "mtime": 1581668523000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T08:22:03Z",
+            "dateModified": "2020-02-14T08:22:03Z"
+        }
+    },
+    {
+        "key": "UMI9W6ER",
+        "version": 14575,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/UMI9W6ER",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/UMI9W6ER",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/6XWVQC52",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "UMI9W6ER",
+            "version": 14575,
+            "parentItem": "6XWVQC52",
+            "itemType": "note",
+            "note": "<p>Cited in introduction to special issues paper</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-14T08:22:03Z",
+            "dateModified": "2020-02-14T08:22:03Z"
+        }
+    },
+    {
+        "key": "FIVIG3EV",
+        "version": 13980,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/FIVIG3EV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/FIVIG3EV",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/SCVQS5E8",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "FIVIG3EV",
+            "version": 13980,
+            "parentItem": "SCVQS5E8",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "ScienceDirect Snapshot",
+            "accessDate": "2019-06-12T09:13:28Z",
+            "url": "https://www.sciencedirect.com/science/article/abs/pii/S0006320713002723",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "S0006320713002723.html",
+            "md5": "a7db5c0ea698f6c7842f9c55f66db737",
+            "mtime": 1581611751000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-13T16:35:51Z",
+            "dateModified": "2020-02-13T16:35:51Z"
+        }
+    },
+    {
+        "key": "U6JZ25MZ",
+        "version": 13394,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/U6JZ25MZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/U6JZ25MZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/TZ8J4V7J",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "U6JZ25MZ",
+            "version": 13394,
+            "parentItem": "TZ8J4V7J",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Outhwaite - 2010 - The International Legal Framework for Biosecurity .pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Outhwaite - 2010 - The International Legal Framework for Biosecurity .pdf",
+            "md5": null,
+            "mtime": null,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-10T08:20:46Z",
+            "dateModified": "2020-02-10T08:20:46Z"
+        }
+    },
+    {
+        "key": "SA6PQNYX",
+        "version": 13394,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SA6PQNYX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SA6PQNYX",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/8EEN4FUP",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "SA6PQNYX",
+            "version": 13394,
+            "parentItem": "8EEN4FUP",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2020-02-08T15:53:30Z",
+            "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2338.2007.01087.x",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "j.1365-2338.2007.01087.html",
+            "md5": null,
+            "mtime": null,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-10T08:20:46Z",
+            "dateModified": "2020-02-10T08:20:46Z"
+        }
+    },
+    {
+        "key": "9E63GUNX",
+        "version": 13339,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/9E63GUNX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/9E63GUNX",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/RMNCXXGB",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5901215,
+                "username": "rblanchard",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/rblanchard",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "9E63GUNX",
+            "version": 13339,
+            "parentItem": "RMNCXXGB",
+            "itemType": "attachment",
+            "linkMode": "linked_url",
+            "title": "Google Books Link",
+            "accessDate": "2020-02-04T14:21:09Z",
+            "url": "https://books.google.co.za/books?id=MhhgddsXmDUC",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-04T14:21:09Z",
+            "dateModified": "2020-02-04T14:21:09Z"
+        }
+    },
+    {
+        "key": "DHWAWEP6",
+        "version": 13306,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/DHWAWEP6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/DHWAWEP6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/33T5CK6V",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "DHWAWEP6",
+            "version": 13306,
+            "parentItem": "33T5CK6V",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Anderies et al. - 2013 - Aligning Key Concepts for Global Change Policy Ro.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Anderies et al. - 2013 - Aligning Key Concepts for Global Change Policy Ro.pdf",
+            "md5": "d5866e174e2a0ed44551abac9cd4fb56",
+            "mtime": 1580809995000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-04T09:52:22Z",
+            "dateModified": "2020-02-04T09:53:15Z"
+        }
+    },
+    {
+        "key": "WSFDK4C4",
+        "version": 13311,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/WSFDK4C4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/WSFDK4C4",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/8K8VXNMB",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "WSFDK4C4",
+            "version": 13311,
+            "parentItem": "8K8VXNMB",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Buchadas et al. - 2017 - Dynamic models in research and management of biolo.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Buchadas et al. - 2017 - Dynamic models in research and management of biolo.pdf",
+            "md5": "3721a2332a6cfa9753b77a8bb142ba0e",
+            "mtime": 1580809993000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-04T09:52:07Z",
+            "dateModified": "2020-02-04T09:53:13Z"
+        }
+    },
+    {
+        "key": "CH4PXUQ9",
+        "version": 13298,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/CH4PXUQ9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/CH4PXUQ9",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/HPBHU9N8",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "CH4PXUQ9",
+            "version": 13298,
+            "parentItem": "HPBHU9N8",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Staples and Hermes - 2012 - Marine biodiversity and resource management – what.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Staples and Hermes - 2012 - Marine biodiversity and resource management – what.pdf",
+            "md5": "68978b58b5bd47fbadc5185351468a9d",
+            "mtime": 1580809969000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-02-04T09:51:56Z",
+            "dateModified": "2020-02-04T09:53:07Z"
+        }
+    },
+    {
+        "key": "FKQQ4CEN",
+        "version": 13278,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/FKQQ4CEN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/FKQQ4CEN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/4FV6CBXS",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5896505,
+                "username": "ina22",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/ina22",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "FKQQ4CEN",
+            "version": 13278,
+            "parentItem": "4FV6CBXS",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Full Text PDF",
+            "accessDate": "2020-01-27T11:07:20Z",
+            "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12511",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Castro‐Díez et al. - 2019 - Global effects of non-native tree species on multi.pdf",
+            "md5": "93ea91750de12bba2f6632b013b48dbb",
+            "mtime": 1580123240000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-01-27T11:07:20Z",
+            "dateModified": "2020-01-27T11:07:20Z"
+        }
+    },
+    {
+        "key": "SBLPZ2D8",
+        "version": 13279,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SBLPZ2D8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SBLPZ2D8",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/4FV6CBXS",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5896505,
+                "username": "ina22",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/ina22",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "SBLPZ2D8",
+            "version": 13279,
+            "parentItem": "4FV6CBXS",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2020-01-27T11:07:18Z",
+            "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12511",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "brv.html",
+            "md5": "93c546a5c503ff7989b5baa4bcfa7729",
+            "mtime": 1580123237000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2020-01-27T11:07:18Z",
+            "dateModified": "2020-01-27T11:07:18Z"
+        }
+    },
+    {
+        "key": "6C6MDF2Y",
+        "version": 13238,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/6C6MDF2Y",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/6C6MDF2Y",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/TKHYFKNT",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "6C6MDF2Y",
+            "version": 13238,
+            "parentItem": "TKHYFKNT",
+            "itemType": "note",
+            "note": "<p>Cited By :176</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-11-11T14:43:03Z",
+            "dateModified": "2019-12-23T05:56:31Z"
+        }
+    },
+    {
+        "key": "V4LBF68I",
+        "version": 13237,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/V4LBF68I",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/V4LBF68I",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/TKHYFKNT",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1759247,
+                "username": "PatriciaHoward",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/patriciahoward",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "V4LBF68I",
+            "version": 13237,
+            "parentItem": "TKHYFKNT",
+            "itemType": "note",
+            "note": "<p>Export Date: 2 January 2019</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-11-11T14:43:03Z",
+            "dateModified": "2019-12-23T05:56:31Z"
+        }
+    },
+    {
+        "key": "2PHVYTZF",
+        "version": 13234,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/2PHVYTZF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/2PHVYTZF",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/WGFCZE2M",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882653,
+                "username": "bukombe",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/bukombe",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "2PHVYTZF",
+            "version": 13234,
+            "parentItem": "WGFCZE2M",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Full Text",
+            "accessDate": "2019-11-20T17:45:35Z",
+            "url": "http://www.esf.edu/efb/parry/invasivesseminar_readings/Zavaleta_etal_2001.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Zavaleta et al. - 2001 - Viewing invasive species removal in a whole-ecosys.pdf",
+            "md5": "74dac5d6bf6df4d7923d71f9f631eb21",
+            "mtime": 1574271935795,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-11-20T17:45:35Z",
+            "dateModified": "2019-12-23T05:52:34Z"
+        }
+    }
+]

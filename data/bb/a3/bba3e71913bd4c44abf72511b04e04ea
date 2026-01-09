@@ -1,0 +1,4896 @@
+[
+    {
+        "key": "E7ST5JFD",
+        "version": 3581,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/E7ST5JFD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/E7ST5JFD",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/VARXGTID",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "E7ST5JFD",
+            "version": 3581,
+            "parentItem": "VARXGTID",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "NRC Research Press PDF fulltext",
+            "accessDate": "2019-09-24T04:42:53Z",
+            "url": "https://www.nrcresearchpress.com/doi/pdfplus/10.1139/er-2013-0083",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Langor et al. - 2014 - Non-native species in Canada’s boreal zone divers.pdf",
+            "md5": "9de12184e49d237dca9d673e4574e259",
+            "mtime": 1569300173475,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-24T04:42:53Z",
+            "dateModified": "2019-09-24T04:42:53Z"
+        }
+    },
+    {
+        "key": "68FTWRJ2",
+        "version": 3580,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/68FTWRJ2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/68FTWRJ2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/VARXGTID",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "68FTWRJ2",
+            "version": 3580,
+            "parentItem": "VARXGTID",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "NRC Research Press Snapshot",
+            "accessDate": "2019-09-24T04:42:49Z",
+            "url": "https://www.nrcresearchpress.com/doi/full/10.1139/er-2013-0083#.XYmevkb7SUk",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "er-2013-0083.html",
+            "md5": "ebeed4fe345923a3de9ddb403e5a17f0",
+            "mtime": 1569300169811,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-24T04:42:49Z",
+            "dateModified": "2019-09-24T04:42:49Z"
+        }
+    },
+    {
+        "key": "AXXPSL2F",
+        "version": 3574,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/AXXPSL2F",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/AXXPSL2F",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/9ZP9MKBY",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "AXXPSL2F",
+            "version": 3574,
+            "parentItem": "9ZP9MKBY",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-24T04:41:38Z",
+            "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2664.2008.01535.x",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "j.1365-2664.2008.01535.html",
+            "md5": "dd2a7dbb9772aff5b5fb821222a7fd88",
+            "mtime": 1569300097869,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-24T04:41:38Z",
+            "dateModified": "2019-09-24T04:41:38Z"
+        }
+    },
+    {
+        "key": "EL8SNS98",
+        "version": 3571,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/EL8SNS98",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/EL8SNS98",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/NDRZUC7W",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "EL8SNS98",
+            "version": 3571,
+            "parentItem": "NDRZUC7W",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-24T04:40:51Z",
+            "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2664.2007.01362.x",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "j.1365-2664.2007.01362.html",
+            "md5": "ce9ac324218b7248020eacfe67e50d5c",
+            "mtime": 1569300051177,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-24T04:40:51Z",
+            "dateModified": "2019-09-24T04:40:51Z"
+        }
+    },
+    {
+        "key": "KZMNVV53",
+        "version": 3568,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/KZMNVV53",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/KZMNVV53",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/AKTPEKP3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "KZMNVV53",
+            "version": 3568,
+            "parentItem": "AKTPEKP3",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-24T04:40:12Z",
+            "url": "https://www.cambridge.org/core/journals/invasive-plant-science-and-management/article/forest-roads-facilitate-the-spread-of-invasive-plants/994A8E5CA5C007A4CB37CA5895FE1547",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "994A8E5CA5C007A4CB37CA5895FE1547.html",
+            "md5": "4f8bae69c46d6f200c96e9724b11f6c9",
+            "mtime": 1569300012060,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-24T04:40:12Z",
+            "dateModified": "2019-09-24T04:40:12Z"
+        }
+    },
+    {
+        "key": "CDQ7CSL5",
+        "version": 3743,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/CDQ7CSL5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/CDQ7CSL5",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/98I82BGT",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "CDQ7CSL5",
+            "version": 3743,
+            "parentItem": "98I82BGT",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Springer Full Text PDF",
+            "accessDate": "2019-09-24T01:13:26Z",
+            "url": "https://link.springer.com/content/pdf/10.1007%2Fs10530-008-9386-z.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Culley e Hardiman - 2009 - The role of intraspecific hybridization in the evo.pdf",
+            "md5": "50795f194d8d6e308687b85fde7fd2c7",
+            "mtime": 1569287606397,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-24T01:13:26Z",
+            "dateModified": "2019-09-24T01:13:26Z"
+        }
+    },
+    {
+        "key": "BNHNUYSL",
+        "version": 3742,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/BNHNUYSL",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/BNHNUYSL",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/4E7FVGBN",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "BNHNUYSL",
+            "version": 3742,
+            "parentItem": "4E7FVGBN",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Springer Full Text PDF",
+            "accessDate": "2019-09-24T00:50:09Z",
+            "url": "https://link.springer.com/content/pdf/10.1007%2Fs10530-005-5839-9.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Kitajima et al. - 2006 - Cultivar selection prior to introduction may incre.pdf",
+            "md5": "5da695ba972d3307918db39897e35b91",
+            "mtime": 1569291622087,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-24T00:50:09Z",
+            "dateModified": "2019-09-24T00:50:09Z"
+        }
+    },
+    {
+        "key": "NQLX2F9U",
+        "version": 3506,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/NQLX2F9U",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/NQLX2F9U",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/MN3AQFUN",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884185,
+                "username": "Peacockl",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/peacockl",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "NQLX2F9U",
+            "version": 3506,
+            "parentItem": "MN3AQFUN",
+            "itemType": "attachment",
+            "linkMode": "linked_url",
+            "title": "Google Books Link",
+            "accessDate": "2019-09-23T05:04:38Z",
+            "url": "https://books.google.co.nz/books?id=Upb0BgAAQBAJ",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-23T05:04:38Z",
+            "dateModified": "2019-09-23T05:04:38Z"
+        }
+    },
+    {
+        "key": "XPJVFHKR",
+        "version": 3479,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/XPJVFHKR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/XPJVFHKR",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/S2AM96S8",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884185,
+                "username": "Peacockl",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/peacockl",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "XPJVFHKR",
+            "version": 3479,
+            "parentItem": "S2AM96S8",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Springer Full Text PDF",
+            "accessDate": "2019-09-23T00:12:26Z",
+            "url": "https://link.springer.com/content/pdf/10.1007%2Fs10530-016-1217-z.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Maistrello et al. - 2016 - Citizen science and early detection of invasive sp.pdf",
+            "md5": "6389f12d1e04eb953607d7d977b5c1a1",
+            "mtime": 1569197546865,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-23T00:12:26Z",
+            "dateModified": "2019-09-23T00:12:26Z"
+        }
+    },
+    {
+        "key": "BT3NLF4U",
+        "version": 3467,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/BT3NLF4U",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/BT3NLF4U",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/MI4X53M3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "BT3NLF4U",
+            "version": 3467,
+            "parentItem": "MI4X53M3",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "invasive-alien-species-working-paper.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "invasive-alien-species-working-paper.pdf",
+            "md5": "ce4a1c4c61288b22b4d51f873cb94e7c",
+            "mtime": 1569090885520,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-21T18:36:02Z",
+            "dateModified": "2019-09-21T18:41:09Z"
+        }
+    },
+    {
+        "key": "FPNCTI6E",
+        "version": 3419,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/FPNCTI6E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/FPNCTI6E",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/LDUXNQQ7",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "FPNCTI6E",
+            "version": 3419,
+            "parentItem": "LDUXNQQ7",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-20T03:18:54Z",
+            "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1526-100X.2009.00586.x",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "j.1526-100X.2009.00586.html",
+            "md5": "fd5f5623f9e03f1603ba7fd542db3db9",
+            "mtime": 1568949534711,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-20T03:18:54Z",
+            "dateModified": "2019-09-20T03:18:54Z"
+        }
+    },
+    {
+        "key": "5BCXGQQM",
+        "version": 3412,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/5BCXGQQM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/5BCXGQQM",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/FG84MUQQ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "5BCXGQQM",
+            "version": 3412,
+            "parentItem": "FG84MUQQ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-20T03:09:16Z",
+            "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2486.2005.00992.x",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "j.1365-2486.2005.00992.html",
+            "md5": "6ab1d0251b4c7c8446c6fb28caacda2c",
+            "mtime": 1568948956339,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-20T03:09:16Z",
+            "dateModified": "2019-09-20T03:09:16Z"
+        }
+    },
+    {
+        "key": "KY9ZIEP2",
+        "version": 3402,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/KY9ZIEP2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/KY9ZIEP2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3ZZ8QWLM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "KY9ZIEP2",
+            "version": 3402,
+            "parentItem": "3ZZ8QWLM",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Gritti et al. - 2006 - Vulnerability of Mediterranean Basin ecosystems to.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Gritti et al. - 2006 - Vulnerability of Mediterranean Basin ecosystems to.pdf",
+            "md5": "6abeabac15bacce55ac0fdd212d5e30c",
+            "mtime": 1568947144633,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-20T02:38:37Z",
+            "dateModified": "2019-09-20T02:39:04Z"
+        }
+    },
+    {
+        "key": "3JAZFBZ8",
+        "version": 3392,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/3JAZFBZ8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/3JAZFBZ8",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XKQA2S67",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "3JAZFBZ8",
+            "version": 3392,
+            "parentItem": "XKQA2S67",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "van der Bles - 2019 - Be certainly uncertain.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "van der Bles - 2019 - Be certainly uncertain.pdf",
+            "md5": "1fcf5bc861740b3db848b32cb4debacc",
+            "mtime": 1568885080000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-19T09:24:40Z",
+            "dateModified": "2019-09-19T09:24:40Z"
+        }
+    },
+    {
+        "key": "LHQ7DAI2",
+        "version": 3372,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LHQ7DAI2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LHQ7DAI2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/TILJIUZ4",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "LHQ7DAI2",
+            "version": 3372,
+            "parentItem": "TILJIUZ4",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-19T00:40:28Z",
+            "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2745.2006.01171.x",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "j.1365-2745.2006.01171.html",
+            "md5": "42f3e37fadbb25862ac8e92b01ebcedc",
+            "mtime": 1568853628201,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-19T00:40:28Z",
+            "dateModified": "2019-09-19T00:40:28Z"
+        }
+    },
+    {
+        "key": "HHAPAVU9",
+        "version": 3379,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/HHAPAVU9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/HHAPAVU9",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/T7465JMW",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "HHAPAVU9",
+            "version": 3379,
+            "parentItem": "T7465JMW",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "ScienceDirect Full Text PDF",
+            "accessDate": "2019-09-18T23:54:15Z",
+            "url": "https://pdf.sciencedirectassets.com/271259/1-s2.0-S0378112700X0299X/1-s2.0-S0378112703000616/main.pdf?X-Amz-Security-Token=AgoJb3JpZ2luX2VjEND%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFXifwxJ9gZk%2FH9sa5ryFBwmP0bvHRmGS6Z9k4bCGlP0AiBnJ5DyyvPL71pksk3%2BZtraCb4S1kGXqJ%2BRca3fAZulOCrjAwiY%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIMJl02tCIA0aqm65lzKrcD4YV9rb0S8eN9Wz7LmmxVH0P6KJFfaBygcr2vkA3Mirr0wWd7PrxoiWMdu8Vm02fmt8HWwtQwnhFAxeVQFNBueNmFG42Y3Ys3cw5ELhjBmcD8de%2Bx5mMjYGJWgf5ybuGQbrCjaPC4l2jMy2AmJv0flgq2ql9llC%2Fw3TpKEXFQhu%2FL%2BAornoxeigJQTrdlgAEN3kccr7tQoJdG1%2BvXedajeG6wlY2oVezzh3YowA3rfmigTi1PtFHFC2RbEw8mN5wNIBMjRdZ9RPulyotG5CUgBlGNQuWa11faPP3JQbijtIU8HzE1m%2FGHcxe1i3H3SlFj2TUmd1V1JC4XfzLUVEtmhsoteM%2F2WmxVBkvSXO%2BQH9b6Zq9SvguMFWZE%2FvXh%2B8beZn%2Fdz4fb4MIANG7DvzHGEq3ea8CtHhgx0QytLsG6yQb%2FssyqHMi1zjgVm8R%2BvM7KArA7LVOT7mP%2FQbuEdthRgXdokaFUOy%2BCwQgbxXQfu5hdfot6t7BXJYf6iSOSDlM9Ob6apWgERQbg8siwd4ViPxh%2FoyGhmxInz0%2Bftbv1v4LC41S7vN4hwmfR%2FbEJxL7kBxpJnFOfvTC48orsBTq1Ab2DptT1flaUup%2Bf8iXJcMyGyTOVH%2FUqZWtMB087NUrx%2BX6zncD5s%2FL%2BNyJ3%2FqB9HaGJgpbjQKtIq%2Fz1h5FfQ2iZOBtB3c%2BAfjmwfC%2BspDP3A9JEeSWFltS4A5qF8YgcYahLM4%2FlxjbfocPrNCmCDqE0s%2FPNV%2F1DHUsZWBhCkCPcibmrQbxpQKGioz4CoXmb9vl76LxlfTp0XXAqZZTKVsxL9urgmBF%2B3%2FvH6r8xxB6epesDafU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190918T235408Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQV3SY3HW%2F20190918%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=af013dbc2e4758f07f24b8301f33ec1f4d313cda8bd082cbd93fcc0ff9bd5ff1&hash=edb09ab715b010a7b41080be12da4e947a0dc76967b9c2feffd0523857ac37b4&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0378112703000616&tid=spdf-9d561d14-9889-4d83-834f-798c9bf2e74d&sid=d06f97bd7da4d644430933b66d8c05f1a329gxrqa&type=client",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Dunham et al. - 2003 - Effects of fire on fish populations landscape per.pdf",
+            "md5": "2ea135b3660a104befafdeaa67cb668a",
+            "mtime": 1568851167035,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-18T23:54:15Z",
+            "dateModified": "2019-09-18T23:54:15Z"
+        }
+    },
+    {
+        "key": "7BZIE7WM",
+        "version": 3361,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/7BZIE7WM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/7BZIE7WM",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/T7465JMW",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "7BZIE7WM",
+            "version": 3361,
+            "parentItem": "T7465JMW",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "ScienceDirect Snapshot",
+            "accessDate": "2019-09-18T23:54:12Z",
+            "url": "https://www.sciencedirect.com/science/article/pii/S0378112703000616",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "S0378112703000616.html",
+            "md5": "0ab0648c89f5c5255d90672bc5bf0a9d",
+            "mtime": 1568850852380,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-18T23:54:12Z",
+            "dateModified": "2019-09-18T23:54:12Z"
+        }
+    },
+    {
+        "key": "PJK9TED4",
+        "version": 3344,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/PJK9TED4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/PJK9TED4",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/LYC3VYAJ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "PJK9TED4",
+            "version": 3344,
+            "parentItem": "LYC3VYAJ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Springer Full Text PDF",
+            "accessDate": "2019-09-18T07:20:37Z",
+            "url": "https://link.springer.com/content/pdf/10.1007%2Fs10980-015-0329-7.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Suárez-Esteban et al. - 2016 - Can anthropogenic linear gaps increase plant abund.pdf",
+            "md5": "9fef86ec6b7291a3a28198498e0fb961",
+            "mtime": 1568791237951,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-18T07:20:37Z",
+            "dateModified": "2019-09-18T07:20:37Z"
+        }
+    },
+    {
+        "key": "QCLH4IWA",
+        "version": 3334,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/QCLH4IWA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/QCLH4IWA",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/PGBUDNXY",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "QCLH4IWA",
+            "version": 3334,
+            "parentItem": "PGBUDNXY",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-18T07:15:28Z",
+            "url": "https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1046/j.1523-1739.2000.99084.x",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "j.1523-1739.2000.99084.html",
+            "md5": "1c0b9fc213197dcb0dc1ed40b88e7bbe",
+            "mtime": 1568790928430,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-18T07:15:28Z",
+            "dateModified": "2019-09-18T07:15:28Z"
+        }
+    },
+    {
+        "key": "KM9VAJ84",
+        "version": 3327,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/KM9VAJ84",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/KM9VAJ84",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/L6RHC4CK",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "KM9VAJ84",
+            "version": 3327,
+            "parentItem": "L6RHC4CK",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Submitted Version",
+            "accessDate": "2019-09-18T07:09:11Z",
+            "url": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1016&context=fnrpubs",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Diez et al. - 2012 - Will extreme climatic events facilitate biological.pdf",
+            "md5": "eb1267afc5851254933b14beea2f9c21",
+            "mtime": 1568790551451,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-18T07:09:11Z",
+            "dateModified": "2019-09-18T07:09:11Z"
+        }
+    },
+    {
+        "key": "SLUUYB8V",
+        "version": 3328,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SLUUYB8V",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SLUUYB8V",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/L6RHC4CK",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882151,
+                "username": "asuka_koyama",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asuka_koyama",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "SLUUYB8V",
+            "version": 3328,
+            "parentItem": "L6RHC4CK",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-18T07:09:07Z",
+            "url": "https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/110137",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "110137.html",
+            "md5": "303e36e4d2cd1bfebb25741c33b94947",
+            "mtime": 1568790547797,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-18T07:09:07Z",
+            "dateModified": "2019-09-18T07:09:07Z"
+        }
+    },
+    {
+        "key": "2WDF4AXZ",
+        "version": 3318,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/2WDF4AXZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/2WDF4AXZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/MCTRCUDY",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "2WDF4AXZ",
+            "version": 3318,
+            "parentItem": "MCTRCUDY",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Keeley et al. - 2005 - Alien Plant Dynamics Following Fire in Mediterrane.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Keeley et al. - 2005 - Alien Plant Dynamics Following Fire in Mediterrane.pdf",
+            "md5": "64863fd83e1a2800e95a262a418cd93c",
+            "mtime": 1568692304427,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-17T03:51:59Z",
+            "dateModified": "2019-09-17T03:51:59Z"
+        }
+    },
+    {
+        "key": "XBAYAMD6",
+        "version": 3316,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/XBAYAMD6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/XBAYAMD6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/MCTRCUDY",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "XBAYAMD6",
+            "version": 3316,
+            "parentItem": "MCTRCUDY",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-09-17T03:50:49Z",
+            "url": "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/04-1222",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "04-1222.html",
+            "md5": "397dce830c038169c9465da0379ba0b6",
+            "mtime": 1568692249563,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-17T03:50:49Z",
+            "dateModified": "2019-09-17T03:50:49Z"
+        }
+    },
+    {
+        "key": "SQGKREMW",
+        "version": 3275,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SQGKREMW",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SQGKREMW",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/FYJYPZ7I",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5651267,
+                "username": "Filosxavier",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/filosxavier",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "SQGKREMW",
+            "version": 3275,
+            "parentItem": "FYJYPZ7I",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "D'Antonio e Vitousek - Biological Invasions by Exotic Grasses, the Grass.pdf",
+            "accessDate": "2019-09-17T02:22:09Z",
+            "url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev.es.23.110192.000431",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "D'Antonio e Vitousek - Biological Invasions by Exotic Grasses, the Grass.pdf",
+            "md5": "cf3b7a61e75a6d36ff78a886c0522793",
+            "mtime": 1568686935908,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-17T02:22:09Z",
+            "dateModified": "2019-09-17T02:22:15Z"
+        }
+    },
+    {
+        "key": "Z6AQZAHQ",
+        "version": 3457,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/Z6AQZAHQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/Z6AQZAHQ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/WT7F3NG8",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882576,
+                "username": "EvanSchwindt",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/evanschwindt",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "Z6AQZAHQ",
+            "version": 3457,
+            "parentItem": "WT7F3NG8",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Hayes et al. - 2019 - The Assessment and Management of Marine Pest Risks.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Hayes et al. - 2019 - The Assessment and Management of Marine Pest Risks.pdf",
+            "md5": "87a3ca8d8c64c840240ba10d7c3f39c2",
+            "mtime": 1568680278211,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-17T00:31:05Z",
+            "dateModified": "2019-09-17T00:31:18Z"
+        }
+    },
+    {
+        "key": "6TNSSI3K",
+        "version": 3235,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/6TNSSI3K",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/6TNSSI3K",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/YH5QKCTG",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "6TNSSI3K",
+            "version": 3235,
+            "parentItem": "YH5QKCTG",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "A four‐component classification of uncertainties in biological invasions implications for managemen.webarchive",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/x-webarchive",
+            "charset": "",
+            "filename": "A four‐component classification of uncertainties in biological invasions implications for managemen.webarchive",
+            "md5": "cbbe310c4b09051800cd5f6d045a291f",
+            "mtime": 1568211301000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-11T14:15:00Z",
+            "dateModified": "2019-09-11T14:15:00Z"
+        }
+    },
+    {
+        "key": "QUV3R4XF",
+        "version": 16046,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/QUV3R4XF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/QUV3R4XF",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/QKXHQTGH",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "QUV3R4XF",
+            "version": 16046,
+            "parentItem": "QKXHQTGH",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Liu et al. - 2011 - Incorporating uncertainty and social values in man.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Liu et al. - 2011 - Incorporating uncertainty and social values in man.pdf",
+            "md5": "71bc24752726927aaefcf24d76eb6eca",
+            "mtime": 1585905209000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-11T13:56:16Z",
+            "dateModified": "2019-09-11T13:56:16Z"
+        }
+    },
+    {
+        "key": "RWIC6MSB",
+        "version": 3210,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/RWIC6MSB",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/RWIC6MSB",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/9VHP9RC6",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "RWIC6MSB",
+            "version": 3210,
+            "parentItem": "9VHP9RC6",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Using sighting records to declare eradication of an invasive species - Rout - 2009 - Journal of Appl.webarchive",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/x-webarchive",
+            "charset": "",
+            "filename": "Using sighting records to declare eradication of an invasive species - Rout - 2009 - Journal of Appl.webarchive",
+            "md5": "97158d3b40f6e6d639877010b6836279",
+            "mtime": 1568209813000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-11T13:50:13Z",
+            "dateModified": "2019-09-11T13:50:13Z"
+        }
+    },
+    {
+        "key": "HMKK8KNN",
+        "version": 16044,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/HMKK8KNN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/HMKK8KNN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/JJEU344E",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "HMKK8KNN",
+            "version": 16044,
+            "parentItem": "JJEU344E",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Liu et al. - 2010 - Using an integrated fuzzy set and deliberative mul.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Liu et al. - 2010 - Using an integrated fuzzy set and deliberative mul.pdf",
+            "md5": "7f5f9ec18050af270a788cbb126483c0",
+            "mtime": 1585900707000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-11T13:39:47Z",
+            "dateModified": "2019-09-11T13:39:47Z"
+        }
+    },
+    {
+        "key": "VLZFZRJ2",
+        "version": 3173,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/VLZFZRJ2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/VLZFZRJ2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/KXDKRH3W",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "VLZFZRJ2",
+            "version": 3173,
+            "parentItem": "KXDKRH3W",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Essl et al. - 2015 - Crossing Frontiers in Tackling Pathways of Biologi.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Essl et al. - 2015 - Crossing Frontiers in Tackling Pathways of Biologi.pdf",
+            "md5": "438ef91886eaeb4993e2ee00beb29c90",
+            "mtime": 1568193675000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-11T09:21:14Z",
+            "dateModified": "2019-09-11T09:21:14Z"
+        }
+    },
+    {
+        "key": "CYJ5VFSH",
+        "version": 3162,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/CYJ5VFSH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/CYJ5VFSH",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/4BQBFBXC",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5885522,
+                "username": "Chika_Egawa",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/chika_egawa",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "CYJ5VFSH",
+            "version": 3162,
+            "parentItem": "4BQBFBXC",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Hanley and Roberts - 2019 - The economic benefits of invasive species manageme.pdf",
+            "accessDate": "2019-09-10T05:36:45Z",
+            "url": "https://www.researchgate.net/profile/Michaela_Roberts/publication/333653780_The_economic_benefits_of_invasive_species_management/links/5cfe0ac34585157d159ff021/The-economic-benefits-of-invasive-species-management.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Hanley and Roberts - 2019 - The economic benefits of invasive species manageme.pdf",
+            "md5": "a37356bcb7b214ec2b0f7013fd89f385",
+            "mtime": 1568093809813,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-09-10T05:36:45Z",
+            "dateModified": "2019-09-10T05:36:49Z"
+        }
+    },
+    {
+        "key": "R58EYEXT",
+        "version": 2638,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/R58EYEXT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/R58EYEXT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/X9P9VY48",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "R58EYEXT",
+            "version": 2638,
+            "parentItem": "X9P9VY48",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "",
+            "filename": "Schulze et al. - 2018 - An assessment of threats to terrestrial protected areas.pdf",
+            "md5": "c8d44a934481fe00fb2a61f1a2c339c5",
+            "mtime": 1561795149399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/LDPYURN7"
+            },
+            "dateAdded": "2019-09-09T08:53:05Z",
+            "dateModified": "2019-09-09T08:53:05Z"
+        }
+    },
+    {
+        "key": "QX8USF8E",
+        "version": 2628,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/QX8USF8E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/QX8USF8E",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3PCNMCKC",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "QX8USF8E",
+            "version": 2628,
+            "parentItem": "3PCNMCKC",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Reed - 2008 - Stakeholder participation for environmental management A literature review.pdf",
+            "md5": "0195bd12e570b63c0453c98cca4b3f6f",
+            "mtime": 1561709508399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/FCHK9YW4"
+            },
+            "dateAdded": "2019-09-09T08:53:05Z",
+            "dateModified": "2019-09-09T08:53:05Z"
+        }
+    },
+    {
+        "key": "8CKFHI47",
+        "version": 1637,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/8CKFHI47",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/8CKFHI47",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/MNV4Z79Q",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "8CKFHI47",
+            "version": 1637,
+            "parentItem": "MNV4Z79Q",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Stevenson - 2004 - Hunters and Bureaucrats Power, Knowledge and Aboriginal-State Relations in the Southwest Yukon.pdf",
+            "md5": "7d3ec9b32e8daa26bdd4fe168acd5280",
+            "mtime": 1561805520399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/AQQPFXN4"
+            },
+            "dateAdded": "2019-09-09T08:53:05Z",
+            "dateModified": "2019-09-09T08:53:05Z"
+        }
+    },
+    {
+        "key": "5PWPZV2B",
+        "version": 1495,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/5PWPZV2B",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/5PWPZV2B",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/4MEI2GV8",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "5PWPZV2B",
+            "version": 1495,
+            "parentItem": "4MEI2GV8",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Ferreira et al. - Unknown - Nutritional status and growth of indigenous Xavante children, Central Brazil.pdf",
+            "md5": "6598679b720d86c7a6892860c67bca6b",
+            "mtime": 1561622469399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/NIW7WIP9"
+            },
+            "dateAdded": "2019-09-09T08:53:05Z",
+            "dateModified": "2019-09-09T08:53:05Z"
+        }
+    },
+    {
+        "key": "PQYI7VXQ",
+        "version": 2564,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/PQYI7VXQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/PQYI7VXQ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/EU8M9P2K",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "PQYI7VXQ",
+            "version": 2564,
+            "parentItem": "EU8M9P2K",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Guidetti et al. - 2014 - Large-scale assessment of mediterranean marine protected areas effects on fish assemblages.pdf",
+            "md5": "6878b763572c45268dc39ad0adf4a5ec",
+            "mtime": 1561623427399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/7JCW98GV"
+            },
+            "dateAdded": "2019-09-09T08:51:50Z",
+            "dateModified": "2019-09-09T08:51:50Z"
+        }
+    },
+    {
+        "key": "LD8G7GTD",
+        "version": 2378,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LD8G7GTD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LD8G7GTD",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/KG6DP7FW",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LD8G7GTD",
+            "version": 2378,
+            "parentItem": "KG6DP7FW",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Galil et al. - 2015 - The Enlargement of the Suez Canal and Introduction of Non-Indigenous Species to the Mediterranean Sea.pdf",
+            "md5": "cac63b1a6cc68aa9ca0638c5ff79bc4e",
+            "mtime": 1561623459399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/QBPNNTJQ"
+            },
+            "dateAdded": "2019-09-09T08:51:50Z",
+            "dateModified": "2019-09-09T08:51:50Z"
+        }
+    },
+    {
+        "key": "BIUFA7CM",
+        "version": 1820,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/BIUFA7CM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/BIUFA7CM",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/P5DWGN6C",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "BIUFA7CM",
+            "version": 1820,
+            "parentItem": "P5DWGN6C",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Ware et al. - 2012 - Humans introduce viable seeds to the Arctic on footwear.pdf",
+            "md5": "32347f56b0a803d112135e3ecfa53493",
+            "mtime": 1561621877399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/6E5PJB5P"
+            },
+            "dateAdded": "2019-09-09T08:51:50Z",
+            "dateModified": "2019-09-09T08:51:50Z"
+        }
+    },
+    {
+        "key": "DLXTNHXX",
+        "version": 1256,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/DLXTNHXX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/DLXTNHXX",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/PPP7FMZL",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "DLXTNHXX",
+            "version": 1256,
+            "parentItem": "PPP7FMZL",
+            "itemType": "note",
+            "note": "<p>Simberloff, D Stiling, P</p>",
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/QMGEWLBC"
+            },
+            "dateAdded": "2019-09-09T08:51:50Z",
+            "dateModified": "2019-09-09T08:51:50Z"
+        }
+    },
+    {
+        "key": "Q2C37B5H",
+        "version": 2577,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/Q2C37B5H",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/Q2C37B5H",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XUB2Z9LX",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "Q2C37B5H",
+            "version": 2577,
+            "parentItem": "XUB2Z9LX",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Hewitt et al. - 2004 - New Zealand marine biosecurity Delivering outcomes in a fluid environment.pdf",
+            "md5": "89e2ce4ca97056fc31215409e087ce27",
+            "mtime": 1561621040933,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/TFKKASPK"
+            },
+            "dateAdded": "2019-09-09T08:51:22Z",
+            "dateModified": "2019-09-09T08:51:22Z"
+        }
+    },
+    {
+        "key": "MJNKWYAG",
+        "version": 2436,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/MJNKWYAG",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/MJNKWYAG",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/JFSIMMIA",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "MJNKWYAG",
+            "version": 2436,
+            "parentItem": "JFSIMMIA",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Ojaveer et al. - 2015 - Classification of Non-Indigenous Species Based on Their Impacts Considerations for Application in Marine Managem.pdf",
+            "md5": "c7a84f1222d5d6b07f917d33343878c7",
+            "mtime": 1561621103399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/9TLPCYZW"
+            },
+            "dateAdded": "2019-09-09T08:51:22Z",
+            "dateModified": "2019-09-09T08:51:22Z"
+        }
+    },
+    {
+        "key": "83TZWUCF",
+        "version": 1620,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/83TZWUCF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/83TZWUCF",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/2HWDK75W",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "83TZWUCF",
+            "version": 1620,
+            "parentItem": "2HWDK75W",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Paulay et al. - 2002 - Anthropogenic biotic interchange in a coral reef ecosystem a case study from Guam.pdf",
+            "md5": "933d13bc4a9246caa302c7232865afef",
+            "mtime": 1561621199722,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/2BU3HJWX"
+            },
+            "dateAdded": "2019-09-09T08:51:22Z",
+            "dateModified": "2019-09-09T08:51:22Z"
+        }
+    },
+    {
+        "key": "2FITMIHL",
+        "version": 1321,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/2FITMIHL",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/2FITMIHL",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/SETS6VGD",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "2FITMIHL",
+            "version": 1321,
+            "parentItem": "SETS6VGD",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Millennium Ecosystem Assessment et al. - 2005 - Ecosystems and Human Well-being Synthesis(2).pdf",
+            "md5": "8acd8673fb421e8e64cf1735ff4636dc",
+            "mtime": 1561620761933,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/WJB2BRTV"
+            },
+            "dateAdded": "2019-09-09T08:51:22Z",
+            "dateModified": "2019-09-09T08:51:22Z"
+        }
+    },
+    {
+        "key": "WINIAT37",
+        "version": 2955,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/WINIAT37",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/WINIAT37",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/6ET3SVDF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "WINIAT37",
+            "version": 2955,
+            "parentItem": "6ET3SVDF",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Butchart et al. - 2010 - Global Biodiversity Indicators of Recent Declines.pdf",
+            "md5": "b892df3a1ddd0f976bc2820c77001a51",
+            "mtime": 1561616937399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/MFYQ2C3N"
+            },
+            "dateAdded": "2019-09-09T08:49:43Z",
+            "dateModified": "2019-09-09T08:49:43Z"
+        }
+    },
+    {
+        "key": "UA7E87L7",
+        "version": 2812,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/UA7E87L7",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/UA7E87L7",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XTWQEMSU",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "UA7E87L7",
+            "version": 2812,
+            "parentItem": "XTWQEMSU",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Rights and Resources Initiative et al. - 2015 - Protected Areas and the Land Rights of Indigenous Peoples and Local Communities Currren.pdf",
+            "md5": "7fd10a12aad18fb8967bbfa03103f137",
+            "mtime": 1561624589722,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/55J49NY6"
+            },
+            "dateAdded": "2019-09-09T07:50:10Z",
+            "dateModified": "2019-09-09T07:50:10Z"
+        }
+    },
+    {
+        "key": "HKLMGEVY",
+        "version": 2177,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/HKLMGEVY",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/HKLMGEVY",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XRZVL2VM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "HKLMGEVY",
+            "version": 2177,
+            "parentItem": "XRZVL2VM",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Australian, Alliance - Unknown - Wetlands and Indigenous values.pdf",
+            "md5": "4323b46b93b1dd4ee6cfc25f7d8057ea",
+            "mtime": 1561625089722,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/47Q5LLGL"
+            },
+            "dateAdded": "2019-09-09T07:50:10Z",
+            "dateModified": "2019-09-09T07:50:10Z"
+        }
+    },
+    {
+        "key": "APXX4VZU",
+        "version": 1776,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/APXX4VZU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/APXX4VZU",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/H39QS6C6",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "APXX4VZU",
+            "version": 1776,
+            "parentItem": "H39QS6C6",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Ens, Fisher, Costello - 2016 - Indigenous People and Invasive Species Perceptions, management, challenges and uses.pdf",
+            "md5": "230d4e8e58bec2c2a4109cd0d53ab5e0",
+            "mtime": 1561624415399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/DA9EHVXG"
+            },
+            "dateAdded": "2019-09-09T07:50:10Z",
+            "dateModified": "2019-09-09T07:50:10Z"
+        }
+    },
+    {
+        "key": "4YCKTI6P",
+        "version": 1457,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/4YCKTI6P",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/4YCKTI6P",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/ECURKWN2",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "4YCKTI6P",
+            "version": 1457,
+            "parentItem": "ECURKWN2",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Walsh, Christophersen, Mcgregor - 2013 - Indigenous perspectives on biodiversity.pdf",
+            "md5": "45ffe11d6c0c4f788bc08013dcd1e170",
+            "mtime": 1561625124399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/KS8MUN5J"
+            },
+            "dateAdded": "2019-09-09T07:50:10Z",
+            "dateModified": "2019-09-09T07:50:10Z"
+        }
+    },
+    {
+        "key": "65G6SMA5",
+        "version": 1026,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/65G6SMA5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/65G6SMA5",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/ARAAA34D",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5881291,
+                "username": "Bernd Lenzner",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/bernd_lenzner",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "65G6SMA5",
+            "version": 1026,
+            "parentItem": "ARAAA34D",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-08-31T05:43:28Z",
+            "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2005987",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "article.html",
+            "md5": "73d8b5331c00e5e3e23c2ee45981f420",
+            "mtime": 1567230208255,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-31T05:43:28Z",
+            "dateModified": "2019-08-31T05:43:28Z"
+        }
+    },
+    {
+        "key": "QXLHEVYV",
+        "version": 1025,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/QXLHEVYV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/QXLHEVYV",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/ARAAA34D",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5881291,
+                "username": "Bernd Lenzner",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/bernd_lenzner",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "QXLHEVYV",
+            "version": 1025,
+            "parentItem": "ARAAA34D",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Full Text PDF",
+            "accessDate": "2019-08-31T05:43:20Z",
+            "url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2005987&type=printable",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Cassey et al. - 2018 - Dissecting the null model for biological invasions.pdf",
+            "md5": "e9283ab22b8840a12b4002e21d6eef5e",
+            "mtime": 1567230200937,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-31T05:43:20Z",
+            "dateModified": "2019-08-31T05:43:20Z"
+        }
+    },
+    {
+        "key": "722E6J8H",
+        "version": 1021,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/722E6J8H",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/722E6J8H",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/5KRHTPEJ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5881291,
+                "username": "Bernd Lenzner",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/bernd_lenzner",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "722E6J8H",
+            "version": 1021,
+            "parentItem": "5KRHTPEJ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Seebens et al. - 2018 - Global rise in emerging alien species results from.pdf",
+            "accessDate": "2019-08-31T05:42:23Z",
+            "url": "https://www-pnas-org.uaccess.univie.ac.at/content/pnas/115/10/E2264.full.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Seebens et al. - 2018 - Global rise in emerging alien species results from.pdf",
+            "md5": "07f686d598774c689e38c9f3a7b1f79c",
+            "mtime": 1567230147330,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-31T05:42:23Z",
+            "dateModified": "2019-08-31T05:42:28Z"
+        }
+    },
+    {
+        "key": "FNGF5PQ6",
+        "version": 1014,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/FNGF5PQ6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/FNGF5PQ6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/C7IC5KNJ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5881291,
+                "username": "Bernd Lenzner",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/bernd_lenzner",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "FNGF5PQ6",
+            "version": 1014,
+            "parentItem": "C7IC5KNJ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-08-31T05:40:28Z",
+            "url": "https://www.nature.com/articles/s41893-019-0245-y",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "s41893-019-0245-y.html",
+            "md5": "e0874d2391d1e728d2e26e0ee6b61086",
+            "mtime": 1567230028875,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-31T05:40:28Z",
+            "dateModified": "2019-08-31T05:40:28Z"
+        }
+    },
+    {
+        "key": "LH8AKJ9S",
+        "version": 823,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LH8AKJ9S",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LH8AKJ9S",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/3Q3NESGR",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LH8AKJ9S",
+            "version": 823,
+            "parentItem": "3Q3NESGR",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Macnaughton et al. - 2015 - “Paiche reigns!” species introduction and indigenous fisheries in the Bolivian Amazon.pdf",
+            "md5": "656324c94d45cc9865eb55bbdb1a7cf3",
+            "mtime": 1561544514399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/KR2Z5GMQ"
+            },
+            "dateAdded": "2019-08-30T04:11:41Z",
+            "dateModified": "2019-08-30T04:11:41Z"
+        }
+    },
+    {
+        "key": "AIHDD2L7",
+        "version": 521,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/AIHDD2L7",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/AIHDD2L7",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/P3MPL6P5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "AIHDD2L7",
+            "version": 521,
+            "parentItem": "P3MPL6P5",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Gavin et al. - 2015 - Defining biocultural approaches to conservation.pdf",
+            "md5": null,
+            "mtime": null,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/T9DSJM89"
+            },
+            "dateAdded": "2019-08-30T04:11:34Z",
+            "dateModified": "2019-08-30T04:11:34Z"
+        }
+    },
+    {
+        "key": "2DL2CA99",
+        "version": 543,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/2DL2CA99",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/2DL2CA99",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/JMDJQUPY",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "2DL2CA99",
+            "version": 543,
+            "parentItem": "JMDJQUPY",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Hamilton, Karamura, Kakudidi - 2016 - History and conservation of wild and cultivated plant diversity in Uganda Forest species and banan.pdf",
+            "md5": "d1798e8db5d4777cfc41a7bce7928d3e",
+            "mtime": 1561559234399,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/MBTRB4HW"
+            },
+            "dateAdded": "2019-08-30T04:11:22Z",
+            "dateModified": "2019-08-30T04:11:22Z"
+        }
+    },
+    {
+        "key": "LNJYKFJH",
+        "version": 453,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LNJYKFJH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LNJYKFJH",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/VVPS2K84",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LNJYKFJH",
+            "version": 453,
+            "parentItem": "VVPS2K84",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Aigo, Ladio - 2016 - Traditional Mapuche ecological knowledge in Patagonia, Argentina fishes and other living beings inhabiting continen.pdf",
+            "md5": "6ebab5b5e308288e7f420861a7c34520",
+            "mtime": 1561545116722,
+            "tags": [],
+            "relations": {
+                "owl:sameAs": "http://zotero.org/groups/2344322/items/2AJKMCXA"
+            },
+            "dateAdded": "2019-08-30T04:10:27Z",
+            "dateModified": "2019-08-30T04:10:27Z"
+        }
+    },
+    {
+        "key": "JWJETAKH",
+        "version": 83629,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/JWJETAKH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/JWJETAKH",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/87NT8PN5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "JWJETAKH",
+            "version": 83629,
+            "parentItem": "87NT8PN5",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000336969200001",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-26T00:32:53Z",
+            "dateModified": "2019-08-26T00:32:53Z"
+        }
+    },
+    {
+        "key": "9JAJMBKN",
+        "version": 83591,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/9JAJMBKN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/9JAJMBKN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XMNL6YLF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "9JAJMBKN",
+            "version": 83591,
+            "parentItem": "XMNL6YLF",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000381947800001",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-26T00:32:53Z",
+            "dateModified": "2019-08-26T00:32:53Z"
+        }
+    },
+    {
+        "key": "IC4TPIV8",
+        "version": 83503,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/IC4TPIV8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/IC4TPIV8",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/SK35934W",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "lastModifiedByUser": {
+                "id": 5862169,
+                "username": "TSU IAS",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/tsu_ias",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "IC4TPIV8",
+            "version": 83503,
+            "parentItem": "SK35934W",
+            "itemType": "note",
+            "note": "The following values have no corresponding Zotero field:<br/>accession-num: WOS:000370066200001",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-26T00:32:53Z",
+            "dateModified": "2019-08-26T00:32:53Z"
+        }
+    },
+    {
+        "key": "SQEDJ62Z",
+        "version": 282,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/SQEDJ62Z",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/SQEDJ62Z",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/SK35934W",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "SQEDJ62Z",
+            "version": 282,
+            "parentItem": "SK35934W",
+            "itemType": "note",
+            "note": "<p>Times Cited: 30<br/>McGeoch, Melodie A. Genovesi, Piero Bellingham, Peter J. Costello, Mark J. McGrannachan, Chris Sheppard, Andy<br/>Sheppard, Andy/C-1045-2009<br/>McGeoch, Melodie/0000-0003-3388-2241<br/>30</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-26T00:32:53Z",
+            "dateModified": "2019-08-26T00:32:53Z"
+        }
+    },
+    {
+        "key": "AQSY73GH",
+        "version": 282,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/AQSY73GH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/AQSY73GH",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/XMNL6YLF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884405,
+                "username": "melodie.mcgeoch",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/melodie.mcgeoch",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "AQSY73GH",
+            "version": 282,
+            "parentItem": "XMNL6YLF",
+            "itemType": "note",
+            "note": "<p>Times Cited: 136<br/>Bradley, Bethany/B-1964-2008; Gonzalez, Patrick/B-9479-2013; Dukes, Jeffrey/<br/>Bradley, Bethany/0000-0003-4912-4971; Gonzalez, Patrick/0000-0002-7105-0561; Dukes, Jeffrey/0000-0001-9482-7743<br/>0<br/>140</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-26T00:32:53Z",
+            "dateModified": "2019-08-26T00:32:53Z"
+        }
+    },
+    {
+        "key": "LCMWLCEI",
+        "version": 263,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/LCMWLCEI",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/LCMWLCEI",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/LDJYNH6N",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "LCMWLCEI",
+            "version": 263,
+            "parentItem": "LDJYNH6N",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Kocovsky et al. - 2018 - What it is to be established policy and managemen.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Kocovsky et al. - 2018 - What it is to be established policy and managemen.pdf",
+            "md5": "2a213ff1bbfccc0f15145e32c850f64b",
+            "mtime": 1566544660000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-23T07:17:40Z",
+            "dateModified": "2019-08-23T07:17:40Z"
+        }
+    },
+    {
+        "key": "DMWAQEJS",
+        "version": 208,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/DMWAQEJS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/DMWAQEJS",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/RDKZXX6M",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "DMWAQEJS",
+            "version": 208,
+            "parentItem": "RDKZXX6M",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Latombe et al. - 2016 - A vision for global monitoring of biological invasions.pdf",
+            "md5": "812a0f88f5eda842d14a05e4ffb45695",
+            "mtime": 1566531574000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-23T03:39:34Z",
+            "dateModified": "2019-08-23T03:39:35Z"
+        }
+    },
+    {
+        "key": "AZ7237C2",
+        "version": 204,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/AZ7237C2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/AZ7237C2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/RV4NBGIF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "AZ7237C2",
+            "version": 204,
+            "parentItem": "RV4NBGIF",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Venette et al. - 2010 - Pest Risk Maps for Invasive Alien Species A Roadmap for Improvement.pdf",
+            "md5": "dcb978cc69bfb9f4d9b448d4e78d72dd",
+            "mtime": 1566531562000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-23T03:39:22Z",
+            "dateModified": "2019-08-23T03:39:23Z"
+        }
+    },
+    {
+        "key": "EIMHBM5K",
+        "version": 196,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/EIMHBM5K",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/EIMHBM5K",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/RV4NBGIF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "EIMHBM5K",
+            "version": 196,
+            "parentItem": "RV4NBGIF",
+            "itemType": "note",
+            "note": "<p>10.1525/bio.2010.60.5.5</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-23T03:39:22Z",
+            "dateModified": "2019-08-23T03:39:22Z"
+        }
+    },
+    {
+        "key": "92V67C8I",
+        "version": 202,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/92V67C8I",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/92V67C8I",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/9THL7S4M",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "92V67C8I",
+            "version": 202,
+            "parentItem": "9THL7S4M",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Attachment",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Vanderhoeven et al. - 2 - Tracking Invasive Alien Species (TrIAS) Building a data-driven framework to inform policy.pdf",
+            "md5": "2284642609399a8379f747f1858dfb48",
+            "mtime": 1566531541000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-23T03:39:01Z",
+            "dateModified": "2019-08-23T03:39:02Z"
+        }
+    },
+    {
+        "key": "ESK4MZI9",
+        "version": 177,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/ESK4MZI9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/ESK4MZI9",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/58EEY9KK",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5882576,
+                "username": "EvanSchwindt",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/evanschwindt",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ESK4MZI9",
+            "version": 177,
+            "parentItem": "58EEY9KK",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Carlton - 2019 - Assessing marine bioinvasions in the Galápagos Isl.pdf",
+            "accessDate": "2019-08-23T03:14:35Z",
+            "url": "http://www.aquaticinvasions.net/2019/AI_2019-G_Carlton_etal.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Carlton - 2019 - Assessing marine bioinvasions in the Galápagos Isl.pdf",
+            "md5": "27f4cbda2be43b361987d63d0d185299",
+            "mtime": 1566530075551,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-23T03:14:35Z",
+            "dateModified": "2019-08-23T03:14:39Z"
+        }
+    },
+    {
+        "key": "YHEPVHF5",
+        "version": 120,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/YHEPVHF5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/YHEPVHF5",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/S2GL8M68",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "YHEPVHF5",
+            "version": 120,
+            "parentItem": "S2GL8M68",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-08-12T13:29:04Z",
+            "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13025",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "1365-2664.html",
+            "md5": "2f17b58b8b7929c09ca17455e5d00d97",
+            "mtime": 1566460565000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T07:56:04Z",
+            "dateModified": "2019-08-22T07:56:04Z"
+        }
+    },
+    {
+        "key": "CNHQ4AFH",
+        "version": 115,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/CNHQ4AFH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/CNHQ4AFH",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/GYW9HL7I",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "CNHQ4AFH",
+            "version": 115,
+            "parentItem": "GYW9HL7I",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-08-12T13:33:51Z",
+            "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/conl.12214",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "conl.html",
+            "md5": "b1239423df597a05b9a82078f5787df8",
+            "mtime": 1566460566000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T07:56:04Z",
+            "dateModified": "2019-08-22T07:56:04Z"
+        }
+    },
+    {
+        "key": "ICFNH8U3",
+        "version": 114,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/ICFNH8U3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/ICFNH8U3",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/43L7UY8S",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ICFNH8U3",
+            "version": 114,
+            "parentItem": "43L7UY8S",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Full Text PDF",
+            "accessDate": "2019-08-12T13:26:24Z",
+            "url": "https://neobiota.pensoft.net/article/31650/download/pdf/",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "González-Moreno et al. - 2019 - Consistency of impact assessment protocols for non.pdf",
+            "md5": "14903dbf0bbc731c2677a4e48dd5377f",
+            "mtime": 1566460565000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T07:56:04Z",
+            "dateModified": "2019-08-22T07:56:04Z"
+        }
+    },
+    {
+        "key": "669UZCZ3",
+        "version": 112,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/669UZCZ3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/669UZCZ3",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/43L7UY8S",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "669UZCZ3",
+            "version": 112,
+            "parentItem": "43L7UY8S",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2019-08-12T13:26:26Z",
+            "url": "https://neobiota.pensoft.net/article/31650/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "31650.html",
+            "md5": "d935f2fca9a4269b46f08331c7413b31",
+            "mtime": 1566460565000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T07:56:04Z",
+            "dateModified": "2019-08-22T07:56:04Z"
+        }
+    },
+    {
+        "key": "7I3QVMMQ",
+        "version": 111,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/7I3QVMMQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/7I3QVMMQ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/GYW9HL7I",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "7I3QVMMQ",
+            "version": 111,
+            "parentItem": "GYW9HL7I",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Full Text PDF",
+            "accessDate": "2019-08-12T13:33:53Z",
+            "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/conl.12214",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Tollington et al. - 2017 - Making the EU Legislation on Invasive Species a Co.pdf",
+            "md5": "676e4185c759de96a340a9f06988201f",
+            "mtime": 1566460566000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T07:56:04Z",
+            "dateModified": "2019-08-22T07:56:04Z"
+        }
+    },
+    {
+        "key": "78KSIK5W",
+        "version": 110,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/78KSIK5W",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/78KSIK5W",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/EY32RN7C",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5884253,
+                "username": "SoVanderhoeven",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sovanderhoeven",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "78KSIK5W",
+            "version": 110,
+            "parentItem": "EY32RN7C",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Springer Full Text PDF",
+            "accessDate": "2019-08-12T13:30:01Z",
+            "url": "https://link.springer.com/content/pdf/10.1007%2Fs10530-017-1434-0.pdf",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Vanderhoeven et al. - 2017 - Beyond protocols improving the reliability of exp.pdf",
+            "md5": "80db92a0a98ae758e0cd574a8115bdd0",
+            "mtime": 1566460564000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T07:56:04Z",
+            "dateModified": "2019-08-22T07:56:04Z"
+        }
+    },
+    {
+        "key": "5DCMIRA4",
+        "version": 98,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/5DCMIRA4",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/5DCMIRA4",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/GLLF2KHF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5886839,
+                "username": "ShanaMcDermott",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/shanamcdermott",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "5DCMIRA4",
+            "version": 98,
+            "parentItem": "GLLF2KHF",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Jones and McDermott - 2018 - Health Impacts of Invasive Species Through an Alte.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Jones and McDermott - 2018 - Health Impacts of Invasive Species Through an Alte.pdf",
+            "md5": "d249cc196c1406b2de898668ecba0bf0",
+            "mtime": 1566452718102,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T05:45:15Z",
+            "dateModified": "2019-08-22T05:45:19Z"
+        }
+    },
+    {
+        "key": "CTA2QQ2N",
+        "version": 86,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/CTA2QQ2N",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/CTA2QQ2N",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/IZMX2KVG",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5898784,
+                "username": "nunezm",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/nunezm",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "CTA2QQ2N",
+            "version": 86,
+            "parentItem": "IZMX2KVG",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Hoffmann y Broadhurst - 2016 - The economic cost of managing invasive species in .pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Hoffmann y Broadhurst - 2016 - The economic cost of managing invasive species in .pdf",
+            "md5": "bf319ca26c2593ded73c016dcfdc1c77",
+            "mtime": 1566451876175,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T05:31:13Z",
+            "dateModified": "2019-08-22T05:31:16Z"
+        }
+    },
+    {
+        "key": "F4YR6PIA",
+        "version": 81,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/F4YR6PIA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/F4YR6PIA",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/QN9T9ADF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5896505,
+                "username": "ina22",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/ina22",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "F4YR6PIA",
+            "version": 81,
+            "parentItem": "QN9T9ADF",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Jones et al. - 2008 - Severity of the Effects of Invasive Rats on Seabir.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Jones et al. - 2008 - Severity of the Effects of Invasive Rats on Seabir.pdf",
+            "md5": "f0ee7c6c3f0188868c8a979ba55e9649",
+            "mtime": 1566449256000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T04:47:33Z",
+            "dateModified": "2019-08-22T04:47:36Z"
+        }
+    },
+    {
+        "key": "KQXMGRBJ",
+        "version": 75,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/KQXMGRBJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/KQXMGRBJ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/FH3FMGIH",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 5896526,
+                "username": "Sven_Bacher",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/sven_bacher",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "KQXMGRBJ",
+            "version": 75,
+            "parentItem": "FH3FMGIH",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Bacher et al. - 2018 - Socio-economic impact classification of alien taxa.pdf",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Bacher et al. - 2018 - Socio-economic impact classification of alien taxa.pdf",
+            "md5": "326d8b7b990b732fbbc5b78420eb1466",
+            "mtime": 1566448883000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T04:41:18Z",
+            "dateModified": "2019-08-22T04:41:23Z"
+        }
+    },
+    {
+        "key": "ZQGWZ9AZ",
+        "version": 70,
+        "library": {
+            "type": "group",
+            "id": 2352922,
+            "name": "IPBES IAS",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ipbes_ias",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2352922/items/ZQGWZ9AZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ipbes_ias/items/ZQGWZ9AZ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/2352922/items/Y2S375LU",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 1245143,
+                "username": "ecotopia21c",
+                "name": "Chaeho Byun",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/ecotopia21c",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 0
+        },
+        "data": {
+            "key": "ZQGWZ9AZ",
+            "version": 70,
+            "parentItem": "Y2S375LU",
+            "itemType": "note",
+            "note": "<p>doi: 10.1111/j.1365-2664.2011.01979.x</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2019-08-22T03:29:43Z",
+            "dateModified": "2019-08-22T03:29:43Z"
+        }
+    }
+]

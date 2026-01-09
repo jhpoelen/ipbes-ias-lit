@@ -1,0 +1,39 @@
+{
+    "id": 2352922,
+    "version": 222,
+    "links": {
+        "self": {
+            "href": "https://api.zotero.org/groups/2352922",
+            "type": "application/json"
+        },
+        "alternate": {
+            "href": "https://www.zotero.org/groups/ipbes_ias",
+            "type": "text/html"
+        }
+    },
+    "meta": {
+        "created": "2019-07-26T12:13:10Z",
+        "lastModified": "2025-04-10T08:37:03Z",
+        "numItems": 12878
+    },
+    "data": {
+        "id": 2352922,
+        "version": 222,
+        "name": "IPBES IAS",
+        "owner": 5760254,
+        "type": "PublicClosed",
+        "description": "<p>Library of the underlying references</p>\n<p><strong>Thematic Assessment of Invasive Alien Species and their Control of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services</strong></p>\n<p>This library contains the references cited in the assessment report and its glossary.</p>\n<p>The tags indicate in which chapter(s) the references were cited.</p>\n<p>Download <a href=\"https://zenodo.org/records/10795593\" rel=\"nofollow\">the full assessment report</a></p>\n<p>See the <a href=\"https://www.ipbes.net/ias\" rel=\"nofollow\">assessment information page on the IPBES website</a></p>\n<p>For enquiries, please contact the IPBES Data and Knowledge Unit (<a href=\"mailto:aidin.niamir@senckenberg.de\">aidin.niamir@senckenberg.de</a>)</p>",
+        "url": "https://www.ipbes.net/ias",
+        "hasImage": 1,
+        "libraryEditing": "admins",
+        "libraryReading": "all",
+        "fileEditing": "admins",
+        "admins": [
+            5825730,
+            10318906
+        ],
+        "members": [
+            12022430
+        ]
+    }
+}
