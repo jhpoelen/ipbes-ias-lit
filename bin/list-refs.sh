@@ -30,6 +30,9 @@ mlr --csv join -j id\
  | jq -c .[]\
  | jq --raw-output --arg HEAD "$HEAD" 'select(.data.md5 != null) | [.links.up.href, " ", $HEAD, " "] | @csv'\
  | sort))\
- | mlr --csv reorder -e -f id,corpusId,attachment,attachmentId\
+ | mlr --csv reorder -e -f corpusId,attachment,attachmentId\
  | mlr --csv uniq -a \
- | mlr --csv sort -t authors,date,title
+ | mlr --csv sort -t authors,date,title \
+ | sed -E "s+^https://api.zotero.org/groups/+urn:lsid:zotero.org:groups:+g" \
+ | sed -E "s+/items/+:items:+g"
+
